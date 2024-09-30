@@ -1,0 +1,65 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Tax Certificate Details",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": "taxCert",
+    "name": "<p>Upload the tax certificate</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "gernRegu",
+    "name": null,
+    "description": "\"<p>Due to German regulations, suppliers providing construction services in our facilities need to provide a tax certificate. </p><p>(<strong style=\\\"color: rgb(34, 34, 34);\\\"><u>Freistellungsbescheinigung vom Finanzamt</u></strong><span style=\\\"color: rgb(34, 34, 34);\\\">)</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "reasNoTaxCert",
+    "name": "<p>Please select the appropriate reason</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "I dont have a certificate": "I dont have a certificate",
+      "This is not applicable to me": "This is not applicable to me"
+    },
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "uplTaxCert",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Please upload the tax certificate</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
