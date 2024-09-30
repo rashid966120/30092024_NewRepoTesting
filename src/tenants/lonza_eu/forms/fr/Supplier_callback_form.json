@@ -1,0 +1,115 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Formulaire de rappel fournisseur",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "callbackDate",
+    "name": "<p>Date de rappel</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "_p_Notes__p_",
+    "name": "<p>Remarques</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "callbackOutcome",
+    "name": "<p>Statut du rappel</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "contactSource",
+    "name": "<p>Source des coordonnées</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "validationData",
+    "name": "<p>Détails de la validation</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Invoices older than 90 days are validated": "Les factures datant de plus de 90 jours sont validées",
+      "Previous account number is validated": "Le numéro de compte précédent est validé"
+    },
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": "accountNumber",
+    "name": "<p>Compte bancaire</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 39,
+    "fieldName": "attachments",
+    "name": "<p>Documentation complémentaire</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 37,
+    "fieldName": "contacts",
+    "name": "<p>Contacts fournisseurs</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "contact",
+    "name": "<p>Contact de rappel</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  }
+]

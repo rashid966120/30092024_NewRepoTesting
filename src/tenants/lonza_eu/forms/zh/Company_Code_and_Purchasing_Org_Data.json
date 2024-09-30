@@ -1,0 +1,349 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "公司代码和采购组织数据",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 28,
+    "fieldName": null,
+    "name": "采购组织数据",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "公司代码数据",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 20,
+    "fieldName": null,
+    "name": "公司代码会计数据",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 27,
+    "fieldName": null,
+    "name": "职员数据",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 68,
+    "fieldName": null,
+    "name": "资质相关数据",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 31,
+    "fieldName": "incoTerms",
+    "name": "<p><strong>《国际贸易术语解释通则》</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 49,
+    "fieldName": "directDebitAmount",
+    "name": "<p><strong>请输入直接扣款金额</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 52,
+    "fieldName": "directDebitFrequency",
+    "name": "<p><strong>请选择直接扣款频次</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Monthly": "每月",
+      "Yearly": "每年",
+      "Other": "其他"
+    },
+    "type": "field"
+  },
+  {
+    "id": 55,
+    "fieldName": "otherfrequency",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">直接扣款频次（若选择“其他”）</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 58,
+    "fieldName": "directDebitDate",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">直接扣款日期</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 61,
+    "fieldName": "annualExpenditure",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">年度支出</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 34,
+    "fieldName": "orderingCurrency",
+    "name": "<p><strong>订购货币</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 37,
+    "fieldName": "incoTermLocation",
+    "name": "<p><strong>《国际贸易术语解释通则》地点</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 64,
+    "fieldName": "helptextcompanycode",
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 43,
+    "fieldName": "companyCodeCountry",
+    "name": "<p><strong>公司代码国家/地区</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 67,
+    "fieldName": "paymentMethodHelptext",
+    "name": null,
+    "description": "“<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>如果您选择通过直接扣款支付，请从支付方式列表中添加直接扣款。</em></strong></p><p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>如果对所选公司代码无直接扣款选项，则其不会出现。对于这种情况，通过直接扣款支付应选择“否”</em></strong></p>”",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 71,
+    "fieldName": "isGMPRelevant",
+    "name": "<p><strong>供应商是否与 GMP 相关？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 23,
+    "fieldName": "reconcilliationAccount",
+    "name": "<p><strong style=\"color: rgb(106, 106, 106);\">对账账户</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "sortkey",
+    "name": "<p><strong>排序码</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "cashmgmtgroup",
+    "name": "<p><strong>现金管理组（计划组）</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "popaymentterm",
+    "name": "<p><strong>默认支付期限</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 81,
+    "fieldName": "changedpopaymentterm",
+    "name": "<p><strong>支付期限</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "paymentTerms",
+    "name": "<p><strong>默认支付期限</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 83,
+    "fieldName": "changedccpaymentterm",
+    "name": "<p><strong>支付期限</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "checkDoubleInv",
+    "name": "<p><strong>检查重复发票</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 46,
+    "fieldName": "isDirectDebit",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">账单是否应通过直接扣款支付？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "paymentMethod",
+    "name": "<p><strong>支付方式</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "clerkEmail",
+    "name": "<p><strong style=\"color: rgb(87, 95, 112);\">职员互联网</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 79,
+    "fieldName": "vcnattachment",
+    "name": "<p><strong>附上 VCN 或任何支持文件</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 86,
+    "fieldName": "requestorSite",
+    "name": "<p><strong>选择请求人的场所</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 95,
+    "fieldName": "companyCodeExists",
+    "name": "<p>公司代码是否存在</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 74,
+    "fieldName": "willBecomeGMPRelevant",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">扩展后，该供应商是否会被用于受监管产品的生产或支持其生产？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "No": "否",
+      "Yes": "是"
+    },
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "clerkabbreviation",
+    "name": "<p><strong>职员缩写</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

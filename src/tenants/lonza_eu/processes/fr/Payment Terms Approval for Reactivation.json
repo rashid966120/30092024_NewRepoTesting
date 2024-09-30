@@ -1,0 +1,14 @@
+[
+  {
+    "id": null,
+    "name": "Approbation des conditions de paiement pour la réactivation",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Approbation des conditions de paiement par Global P2P",
+    "type": null,
+    "description": null
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": null,
+    "name": "供应商准入流程",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "早期审查",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "早期采购审查",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "财务总监审查",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "有 CBAM 风险的供应商创建请求",
+    "type": null,
+    "description": "此通知旨在请您注意与此准入请求相关的 CBAM 风险。请向请求人核实更多详细信息。"
+  },
+  {
+    "id": 8,
+    "name": "早期 QA 审查",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "更新主要买家",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 12,
+    "name": "审批流程",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "准入子流程",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "ESG 筛查",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 22,
+    "name": "GMP 子流程",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 20,
+    "name": "在 SAP 中创建供应商",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 25,
+    "name": "供应商拒绝通知",
+    "type": null,
+    "description": "质量团队拒绝在 SAP 中创建供应商！"
+  },
+  {
+    "id": 21,
+    "name": "在 SAP ZVENDOR_INFO 中更新供应商层次结构",
+    "type": null,
+    "description": "请在 SAP ZVENDOR_INFO 中为该供应商分配供应商层次结构"
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Examen et certification",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 44,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 89,
+    "fieldName": null,
+    "name": "Informations de contexte complémentaires",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 97,
+    "fieldName": null,
+    "name": "Conditions générales",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 101,
+    "fieldName": null,
+    "name": "Code de conduite",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 105,
+    "fieldName": null,
+    "name": "Examen et certification",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 82,
+    "fieldName": "The_Supplier",
+    "name": "<p><strong>Le fournisseur :</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 92,
+    "fieldName": "isGovernmentAgency",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Votre entreprise est-elle une agence gouvernementale ou êtes-vous un agent public, étroitement affilié à une agence gouvernementale ou à un agent public, ou appartenant à une agence gouvernementale ou à un agent public ?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 94,
+    "fieldName": "isCC3",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Est-ce que vous ou votre entreprise agirez au nom de Lonza par exemple pour la vente de biens ou de services de Lonza (en tant qu'agent commercial/distributeur/commerçant) ?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 96,
+    "fieldName": "isCC4",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Allez-vous, vous ou votre entreprise, représenter la marque ou les produits de Lonza ou interagir d'une autre manière avec d'autres au nom de Lonza ?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 100,
+    "fieldName": "generalTerms",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Le fournisseur certifie et accepte que tous les biens et/ou services qu'il fournit à Lonza seront soumis aux<em> “</em></strong><a href=\"https://www.lonza.com/conditions\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\"><strong><em> Conditions générales</em></strong></a><strong style=\"color: rgb(62, 68, 86);\"><em>\" </em> sauf si le fournisseur et Lonza ont spécifiquement convenu par écrit d'autres conditions contractuelles pour une fourniture particulière de biens et/ou de services.</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Acknowledged and agreed": "Certifié et accepté"
+    },
+    "type": "field"
+  },
+  {
+    "id": 88,
+    "fieldName": "Date_and_time",
+    "name": "<p><strong>Date et heure</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 72,
+    "fieldName": "q72_Name_and_Title_of_the_employee",
+    "name": "<p><strong>Nom et titre</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 104,
+    "fieldName": "codeOfconduct",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\"><span class=\"ql-cursor\">﻿</span>Le fournisseur certifie et accepte qu'il se conformera au</strong><a href=\"https://www.lonza.com/public/supplier-code-of-conduct\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\"><strong> Code de conduite des fournisseurs de Lonza</strong></a><strong style=\"color: rgb(62, 68, 86);\"> à tout moment.</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Acknowledged and agreed": "Certifié et accepté"
+    },
+    "type": "field"
+  },
+  {
+    "id": 69,
+    "fieldName": "onboardingFormNames",
+    "name": null,
+    "description": "« <p><strong> Formulaires remplis dans cette section : </strong></p><p><br></p><ol><li> Informations sur l'entreprise</li><li> Formulaire d'adresse</li><li> Formulaire de contact</li><li> Formulaire détaillé SAP Ariba (le cas échéant)</li><li> Modalités de paiement</li></ol> »",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "isTrue",
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "I hereby certify that to the best of my knowledge the information presented in all the above forms is true and correct.": "Je certifie par la présente qu'à ma connaissance, les informations présentées dans tous les formulaires ci-dessus sont vraies et correctes.",
+      "I confirm that I am authorized by the Supplier to complete this form and to accept contractual terms on its behalf.": "Je confirme que je suis autorisé(e) par le Fournisseur à remplir ce formulaire et à accepter les conditions contractuelles en son nom."
+    },
+    "type": "field"
+  }
+]

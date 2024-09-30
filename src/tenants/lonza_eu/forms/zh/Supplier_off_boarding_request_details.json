@@ -1,0 +1,307 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "供应商退出请求详情",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 15,
+    "fieldName": null,
+    "name": "公司和采购组织数据",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 8,
+    "fieldName": null,
+    "name": "变更详情",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 97,
+    "fieldName": null,
+    "name": "冻结/解除冻结详情",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 150,
+    "fieldName": null,
+    "name": "类别详细信息",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 128,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "requestor",
+    "name": "<p><strong>请求人</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "businessJustification",
+    "name": "<p><strong>业务理由</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 112,
+    "fieldName": "typeOfBlock",
+    "name": "<p><strong>请选择冻结类型</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Payment block": "支付冻结",
+      "Posting block": "过账冻结",
+      "Both": "二者"
+    },
+    "type": "field"
+  },
+  {
+    "id": 137,
+    "fieldName": "requestorSite",
+    "name": "<p><strong>选择请求人的场所</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 106,
+    "fieldName": "blockPurchasingOrg",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">选择您想要冻结/解除冻结供应商的采购组织</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 100,
+    "fieldName": "blockType",
+    "name": "<p><strong>选择您想要冻结/解除冻结供应商的级别</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "All company codes": "全部公司代码",
+      "Specific company code": "特定公司代码",
+      "Specific purchasing org": "特定采购组织",
+      "All purchasing org": "全部采购组织"
+    },
+    "type": "field"
+  },
+  {
+    "id": 146,
+    "fieldName": "blockReason",
+    "name": "<p><strong>请选择冻结/停用原因</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Quality performance": "质量业绩",
+      "Other (specify in the field Business Justification)": "其他（在业务理由说明）",
+      "Invalid trading partner (Entity doesn’t exist anymore)": "无效的贸易伙伴（实体不再存在）",
+      "Delivery performance": "交付业绩",
+      "Ethics & Compliance": "道德与合规"
+    },
+    "type": "field"
+  },
+  {
+    "id": 149,
+    "fieldName": "existingAccountGroup",
+    "name": "<p><strong>账户组</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 118,
+    "fieldName": "isEarlyQAReviewNeeded",
+    "name": "<p><strong>是否需要早期 QA 审查？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 140,
+    "fieldName": "isBlock",
+    "name": "<p>是冻结</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 115,
+    "fieldName": "isNotificationToSiteRequired",
+    "name": "<p><strong>是否需要向场所发送冻结通知？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 121,
+    "fieldName": "isSAPUpdateRequired",
+    "name": "<p><strong>SAP 是否需要更新？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 124,
+    "fieldName": "q124_isDeactivateNotificationRequir",
+    "name": "<p><strong>是否需要停用通知？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 11,
+    "fieldName": "changeOptions",
+    "name": "<p><strong>选择操作：</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Reactivate": "重新激活",
+      "Block": "冻结",
+      "Deactivate": "停用",
+      "Unblock": "解除冻结"
+    },
+    "type": "field"
+  },
+  {
+    "id": 156,
+    "fieldName": "division",
+    "name": "<p><strong>选择部门</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "CHI": "CHI",
+      "BIO, C&G": "BIO、C&G",
+      "SM": "SM",
+      "HS": "HS"
+    },
+    "type": "field"
+  },
+  {
+    "id": 127,
+    "fieldName": "isReactivationWorkflowRequired",
+    "name": "<p><strong>是否需要重新激活流程？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 153,
+    "fieldName": "category",
+    "name": "<p><strong>选择类别</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 18,
+    "fieldName": "companyCode",
+    "name": "<p><strong>当前公司代码</strong></p>",
+    "description": "波次 1 范围内的公司代码",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 37,
+    "fieldName": "existingPurchsingOrg",
+    "name": "<p><strong>当前采购组织</strong></p>",
+    "description": "波次 1 范围内的采购组织",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 103,
+    "fieldName": "blockCompanyCode",
+    "name": "<p><strong>选择您想要冻结/解除冻结供应商的公司代码</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 159,
+    "fieldName": "existingCompanyEntities",
+    "name": "<p><strong>选择要重新激活的公司代码</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": null,
+    "name": "供应商简便筛选评估",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "获取 D&B 评分",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "更新评估中的风险级别",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "潜在供应商筛选审查",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "更新供应商状态",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "潜在供应商 ESG 筛查结果",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "财务筛查",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "更新公司信息",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 17,
+    "name": "创建供应商",
+    "type": null,
+    "description": null
+  }
+]

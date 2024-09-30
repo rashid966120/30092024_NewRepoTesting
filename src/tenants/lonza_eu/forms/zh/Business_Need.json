@@ -1,0 +1,316 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "业务需求",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "业务详情",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 70,
+    "fieldName": null,
+    "name": "其他详细信息",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 89,
+    "fieldName": null,
+    "name": "工厂/场所信息",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 88,
+    "fieldName": "requestor",
+    "name": "<p><strong>请求人姓名</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "_p_Describe_business_need__p_",
+    "name": "<p><strong>业务理由</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 135,
+    "fieldName": "travelandexpError",
+    "name": "无效(1)",
+    "description": "“<p><strong style=\\\"color: rgb(230, 0, 0);\\\">提交请求前，请确保已查看</strong><strong></strong><a href=\\\"https://dms.lonzagroup.net/D2/servlet/EffectiveDownload?_docbase=DCTMPROD&amp;_locale=en&amp;event_name=d2_view&amp;name=GROUP-98741\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\"><strong>《全球差旅和费用政策》</strong></a><strong></strong><strong style=\\\"color: rgb(230, 0, 0);\\\">及</strong><strong></strong><a href=\\\"https://dms.lonzagroup.net/D2/servlet/EffectiveDownload?_docbase=DCTMPROD&amp;_locale=en&amp;event_name=d2_view&amp;name=GROUP-89471\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\"><strong>《P 卡政策》</strong></a><strong></strong><strong style=\\\"color: rgb(230, 0, 0);\\\"></strong></p>”",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 144,
+    "fieldName": "isPOrgExtensionNeeded",
+    "name": "<p>是否需要采购组织扩展</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 124,
+    "fieldName": "isNonEuropean",
+    "name": "<p><strong>商品是否会从非欧洲国家运输至欧洲？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 92,
+    "fieldName": "siteLonza",
+    "name": "<p><strong>哪些 Lonza 场所受影响？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 133,
+    "fieldName": "CBAMErrorInstruction",
+    "name": null,
+    "description": "“<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>注意！请注意，该供应商和相关物料将受到 CBAM 要求的约束，可能增加成本。如果供应商有欧洲法人实体，请确保其是使用 DDP 国际贸易术语解释通则的进口商。否则，请考虑在当地采购。此外，请务必避免将这些物料从非欧洲的 Lonza 实体内部转移到欧洲的另一个 Lonza 实体，这也受 CBAM 要求约束。</em></strong></p>”",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 152,
+    "fieldName": "requestorSite",
+    "name": "<p><strong>请求人的 Lonza 地点</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 115,
+    "fieldName": "poVolume",
+    "name": "<p><strong>该供应商的预期采购量是多少？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "HIGH - Above 100": "高 - 100 以上",
+      "MEDIUM - From 10 to 100": "中 - 10 至 100",
+      "LOW - Up to 10": "低 - 最多 10"
+    },
+    "type": "field"
+  },
+  {
+    "id": 113,
+    "fieldName": "expectedSpend",
+    "name": "<p><strong>该供应商的预期支出是多少？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "MEDIUM - From 50,000 to 800,000 CHF": "中 - 50000 至 800000 瑞士法郎",
+      "LOW - From 5,000 CHF to 50,000 CHF": "低 - 5000 至 50000 瑞士法郎",
+      "HIGH - Above 800,000 CHF": "高 - 800000 瑞士法郎以上",
+      "VERY LOW - up to 5,000 CHF": "很低 - 最多 5000 瑞士法郎"
+    },
+    "type": "field"
+  },
+  {
+    "id": 79,
+    "fieldName": "accountGroup",
+    "name": "<p><strong>请选择相应的账户组</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 127,
+    "fieldName": "companyCode",
+    "name": "<p><strong>请选择公司代码</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 150,
+    "fieldName": "helpTextForOneTimeVendor",
+    "name": "无效(1)（1）",
+    "description": "“<p><strong style=\\\"color: rgb(230, 0, 0);\\\">提交请求前，请确保已查看</strong><strong></strong><a href=\\\"https://dms.lonzagroup.net/D2/servlet/EffectiveDownload?_docbase=DCTMPROD&amp;_locale=en&amp;event_name=d2_view&amp;name=GROUP-98741\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\"><strong>《全球差旅和费用政策》</strong></a><strong></strong><strong style=\\\"color: rgb(230, 0, 0);\\\">及</strong><strong></strong><a href=\\\"https://dms.lonzagroup.net/D2/servlet/EffectiveDownload?_docbase=DCTMPROD&amp;_locale=en&amp;event_name=d2_view&amp;name=GROUP-89471\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\"><strong>《P 卡政策》</strong></a><strong></strong><strong style=\\\"color: rgb(230, 0, 0);\\\">。</strong></p><p><strong style=\\\"color: rgb(230, 0, 0);\\\">用于或支持受监管产品制造的供应商需要具备足够的资质，且不应被设置为一次性供应商。</strong></p><p><br></p> “",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 121,
+    "fieldName": "isCBAMRegulated",
+    "name": "<p><strong>您是否计划从该供应商购买以下任何商品：水泥、钢铁、铝、化肥、电力和/或氢（列于 CBAM 法规附录 II 中）？</strong></p>",
+    "description": null,
+    "helpText": "<p><a href=\"https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en \" rel=\"noopener noreferrer\" target=\"_blank\">点击此处</a>可了解有关 CBAM 的更多信息</p><p><a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AJOL_2023_228_R_0006#d1e32-113-1\" rel=\"noopener noreferrer\" target=\"_blank\">点击此处</a>可阅读 CBAM 法规附录 II（见表 1 - 商品大类 CN 代码图）</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 52,
+    "fieldName": "isGMP",
+    "name": "<p><strong>供应商是否会被用于受监管产品的制造或者为其提供支持？</strong></p>",
+    "description": null,
+    "helpText": "<p>监管范围包括 GMP、饲料与食品、医疗器械、ISO 商业产品。</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 118,
+    "fieldName": "isOneTimeVendor",
+    "name": "<p><strong>是否为一次性供应商？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 164,
+    "fieldName": "isvendorcreationNeeded",
+    "name": "<p><strong>是否需要创建供应商？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 161,
+    "fieldName": "isSAPFormNeeded",
+    "name": "<p>是否需要 SAP Ariba 表？</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 176,
+    "fieldName": "isPaymentTermNotification",
+    "name": "<p><strong>是否需要支付期限通知？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 178,
+    "fieldName": "directDebitNotification",
+    "name": "<p><strong>是否需要直接扣款通知？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 158,
+    "fieldName": "isESGNeeded",
+    "name": "<p>是否需要 ESG</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 76,
+    "fieldName": "purchasingOrg",
+    "name": "<p><strong>请选择采购组织</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 155,
+    "fieldName": "division",
+    "name": "<p><strong>选择部门</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "CHI": "CHI",
+      "BIO, C&G": "BIO、C&G",
+      "SM": "SM",
+      "HS": "HS"
+    },
+    "type": "field"
+  },
+  {
+    "id": 167,
+    "fieldName": "isCustomerOfLonza",
+    "name": "<p><strong>创建此供应商是否为了让 Lonza 的客户提供 Lonza CSTM 物料（客户提供的原材料）？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 170,
+    "fieldName": "isNormalFlow",
+    "name": "<p><strong>是正常流程</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "_p_Category___Commodity__p_",
+    "name": "<p><strong>请选择商品</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

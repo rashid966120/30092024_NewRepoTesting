@@ -1,0 +1,56 @@
+[
+  {
+    "id": null,
+    "name": "变更系统任务",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "抓取当前支付期限",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "加载联系人",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "加载地址",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "抓取直接扣款",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "抓取支付方式",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "GMP 相关",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "抓取会计数据",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "抓取采购数据",
+    "type": null,
+    "description": null
+  }
+]

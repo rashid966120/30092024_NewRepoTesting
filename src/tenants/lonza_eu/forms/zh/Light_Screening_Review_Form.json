@@ -1,0 +1,72 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "潜在供应商筛选审查表",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": "financialScreeningNeeded",
+    "name": "<p><strong>您是否想对该供应商进行财务筛查？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 21,
+    "fieldName": "null_1_",
+    "name": "无效(1)",
+    "description": "“<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>注意：您会像以前一样通过 ServiceNow 通知获知财务筛查结果。</em></strong></p>”",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 24,
+    "fieldName": "isRiskAvailable",
+    "name": "<p><strong>是否有风险？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "assessmentRiskLevel",
+    "name": "<p>评估风险等级</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "null_1__1_",
+    "name": "无效(1)（1）",
+    "description": "“<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>该供应商有较高的 ESG 风险。请考虑从其他供应商采购；或 在准入时邀请该供应商进行 Integrity Next 评估。</em></strong></p>”",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

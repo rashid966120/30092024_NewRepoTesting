@@ -1,0 +1,98 @@
+[
+  {
+    "id": null,
+    "name": "重新激活工作流程",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "采购审查",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "收集准入相关文件",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "公司信息",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "支付详情",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "地址表",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "联系人表",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "SAP Ariba 详细信息表",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "支付期限和《国际贸易术语解释通则》确认",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 19,
+    "name": "审查与确认",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "银行密钥验证",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 22,
+    "name": "支付期限重新激活审批",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 23,
+    "name": "直接扣款审批流程",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 24,
+    "name": "主数据批准",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 26,
+    "name": "修复供应商重新激活中的数据错误",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 25,
+    "name": "在 SAP 中重新激活供应商",
+    "type": null,
+    "description": null
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Documents de qualification des fournisseurs",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Formulaires à télécharger",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 15,
+    "fieldName": "InstructionsForDownload",
+    "name": null,
+    "description": "« <p><strong><em> Veuillez remplir le formulaire ci-joint, le signer et le télécharger au format PDF une fois rempli</em></strong></p> »",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "scdForSupplier",
+    "name": "<p>Télécharger la déclaration de la chaîne d'approvisionnement</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 12,
+    "fieldName": "q12__p_Download_SCD_Form_for_QA__p",
+    "name": "<p>Télécharger la déclaration de la chaîne d'approvisionnement pour l'évaluation de la qualité</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "q10__p_Download_Client_Qualificati",
+    "name": "<p>Télécharger la qualification client</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

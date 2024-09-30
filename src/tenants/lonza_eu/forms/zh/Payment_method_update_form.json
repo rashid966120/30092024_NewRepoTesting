@@ -1,0 +1,76 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "支付方式更新表",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "现有数据",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 8,
+    "fieldName": null,
+    "name": "变更数据",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": "selectedCompanyCode",
+    "name": "<p><strong>请求人所选公司代码</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "directDebitStatus",
+    "name": "<p><strong>对所选公司代码的支付方式</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "N/A": "不适用",
+      "Enabled": "已启用",
+      "Disabled": "已禁用"
+    },
+    "type": "field"
+  },
+  {
+    "id": 20,
+    "fieldName": "changedPaymentMethod",
+    "name": "<p><strong>为变更请求选择支付方式</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 23,
+    "fieldName": "companyCodeCountry",
+    "name": "<p><strong>公司代码国家/地区</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

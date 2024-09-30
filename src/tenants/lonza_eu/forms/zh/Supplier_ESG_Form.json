@@ -1,0 +1,114 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "供应商 ESG 表",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "ESG 数据",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 20,
+    "fieldName": "sustainabilityContactPerson",
+    "name": "<p><strong>提供可持续发展联系人（若有）。</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "联系人",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 37,
+    "fieldName": "companySize",
+    "name": "<p><strong>请选择您公司的规模</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Small <50 employees": "员工数少于 50 人的小型公司",
+      "Micro <10 employees": "员工数少于 10 人的微型公司",
+      "Large >250 employees": "员工数多于 250 人的大型公司",
+      "Medium <250 employees": "员工数少于 250 人的中型公司"
+    },
+    "type": "field"
+  },
+  {
+    "id": 34,
+    "fieldName": "esgAgreement",
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "I hereby certify that to the best of my knowledge the information presented in this form is true and correct.": "我特此证明，据我所知，本表格中提供的信息真实、正确。"
+    },
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "isMicroCompany",
+    "name": "<p>是微型公司</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 25,
+    "fieldName": null,
+    "name": null,
+    "description": "“<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>若未提供 EVID 或 DUNS 编号，则需要由 Integrity Next 对您的公司进行可持续发展评估。</em></strong></p>”",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 12,
+    "fieldName": "DUNSNumber",
+    "name": "<p>请提供 DUNS 编号*</p>",
+    "description": null,
+    "helpText": "<p><strong style=\"color: rgb(62, 68, 86);\">DUNS 编号可以是 8 位数字，也可以是 9 位数字。</strong></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "ecovadisID",
+    "name": "<p>请提供 Ecovadis ID*</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "ESGCategory",
+    "name": "<p><strong>为使我们能访问贵公司的 ESG 信息，请注明 EcoVadis ID (EVID) 和/或 DUNS 编号。若未提供相关信息，则可能需要由 Integrity Next 对您的公司进行可持续发展评估。</strong></p>",
+    "description": null,
+    "helpText": "<p><span style=\"color: rgb(0, 0, 0);\">没有 DUNS 编号？可在</span><a href=\"https://www.dnb.com/en-ch/duns-request.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0);\">此处</a></p>免费获取",
+    "listItemPrefix": "",
+    "choices": {
+      "Ecovadis ID": "Ecovadis ID",
+      "None of the above": "以上都不是",
+      "DUNS number": "DUNS 编号",
+      "Both": "二者都是"
+    },
+    "type": "field"
+  }
+]

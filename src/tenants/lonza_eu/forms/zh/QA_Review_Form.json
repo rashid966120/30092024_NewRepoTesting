@@ -1,0 +1,107 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "QA 早期审查总结",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "QA 早期审查总结",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 25,
+    "fieldName": "proceedOnboarding",
+    "name": "<p>是否可让供应商准入？</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 33,
+    "fieldName": "isClientQualifiedSupplier",
+    "name": "<p>是有资质的客户供应商</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 36,
+    "fieldName": "clientQualifiedHelpText",
+    "name": null,
+    "description": "“<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>您所选评估结果与 GROUP-99350 不一致。请求人已选择有资质的客户，您正在选择不同的资质类型。继续操作之前请先检查。</em></strong></p>”",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 38,
+    "fieldName": "globalQualificationHelpText",
+    "name": "无效(1)",
+    "description": "“<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>您所选评估结果与 GROUP-99350 不一致。请求人已从 M01-M06、M20、M50、M51、S01-S06、S50、S51、E03-E06 中选择了</em></strong><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>适用于全球供应商资质的类别。继续操作之前请先检查。</em></strong></p>”",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 42,
+    "fieldName": "helpTextForNoQualification",
+    "name": "无效(1)",
+    "description": "“<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>您所选评估结果与 GROUP-99350 不一致。请求人已从 M07、M99、S07、S99、E07 中选择了适用于本地供应商资质或无资质的类别。继续操作之前请先检查。</em></strong></p>”",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "localSupQAForms",
+    "name": "<p><strong>上传本地供应商资质表</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "qualificationType",
+    "name": "<p><strong>QA 请求评估结果</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "No Qualification Required": "无需资质",
+      "Local Supplier Qualification": "本地供应商资质",
+      "Client Supplier Qualification": "客户供应商资质",
+      "Global Supplier Qualification": "全球供应商资质"
+    },
+    "type": "field"
+  },
+  {
+    "id": 30,
+    "fieldName": "selectedClass",
+    "name": "<p><strong>所选物料/服务/设备类别</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

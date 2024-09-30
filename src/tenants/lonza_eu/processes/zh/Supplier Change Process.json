@@ -1,0 +1,104 @@
+[
+  {
+    "id": null,
+    "name": "供应商变更流程",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 30,
+    "name": "变更系统任务",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "由请求人更新数据",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 42,
+    "name": "早期现场 QA 审查",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 44,
+    "name": "变更的质量工作流程",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "供应商更新银行信息",
+    "type": null,
+    "description": "请更新银行详细信息"
+  },
+  {
+    "id": 5,
+    "name": "支付详情",
+    "type": null,
+    "description": "请更新银行详细信息"
+  },
+  {
+    "id": 37,
+    "name": "银行密钥验证",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "银行验证团队审查",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 32,
+    "name": "Global P2P 批准支付期限",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 33,
+    "name": "全球财务部批准直接扣款",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 34,
+    "name": "AP 批准直接扣款",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 38,
+    "name": "全球主数据管理批准",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 31,
+    "name": "在 SAP 中更新供应商",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 43,
+    "name": "更新供应商拒绝通知",
+    "type": null,
+    "description": "更新请求已被拒绝。"
+  },
+  {
+    "id": 35,
+    "name": "支付期限被拒通知",
+    "type": null,
+    "description": "您的支付期限变更请求被拒绝。"
+  },
+  {
+    "id": 36,
+    "name": "直接扣款被拒通知",
+    "type": null,
+    "description": "您的直接扣款变更被拒绝。"
+  }
+]

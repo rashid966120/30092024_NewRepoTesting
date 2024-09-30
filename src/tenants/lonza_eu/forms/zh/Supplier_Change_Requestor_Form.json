@@ -1,0 +1,385 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "供应商变更请求人表",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 15,
+    "fieldName": null,
+    "name": "公司和采购组织数据",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 8,
+    "fieldName": null,
+    "name": "变更详情",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 81,
+    "fieldName": null,
+    "name": "支付期限变更",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 82,
+    "fieldName": null,
+    "name": "直接扣款变更",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 90,
+    "fieldName": null,
+    "name": "支付方式变更",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 106,
+    "fieldName": null,
+    "name": "会计数据变更",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 110,
+    "fieldName": null,
+    "name": "采购数据变更",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 97,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "requestor",
+    "name": "<p><strong>请求人</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "businessJustification",
+    "name": "<p><strong>业务理由</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "lonzaSites",
+    "name": "<p><strong>Lonza 场所</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "bankInforHelpText",
+    "name": null,
+    "description": "“<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>请注意：变更银行信息需要供应商更新银行详细信息，因此会向供应商分配文件收集任务。</em></strong></p>”",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 72,
+    "fieldName": "helptextvendorhierarchy",
+    "name": null,
+    "description": "“<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>要变更供应商层次结构 - 请在</em></strong><span style=\\\"color: rgb(209, 52, 56);\\\"></span><a href=\\\"https://app.powerbi.com/groups/me/apps/862cab98-ee54-4f5d-8135-d51dd6ccff1a/reports/d6905b9e-c1e8-4f3a-bd94-df74109e068e/ReportSection24e19d1caa5d77216700?ctid=44a3f7ad-8e4c-406b-9d15-d4ee6477c700\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"color: rgb(209, 52, 56);\\\">支出 Cube </a></p><p><strong style=\\\"color: rgb(209, 52, 56);\\\">中提交请求。要继续进行其他变更，请取消选择“变更供应商层次结构”。</strong></p>”",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 100,
+    "fieldName": "updateNeeded",
+    "name": "<p><strong>是否需要 SAP 更新？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 103,
+    "fieldName": "directDebitNotificationNeeded",
+    "name": "<p><strong>是否需要直接扣款通知？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 105,
+    "fieldName": "paymentTermNotificationNeeded",
+    "name": "<p><strong>是否需要支付期限通知？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 96,
+    "fieldName": "requestorUpdateNeeded",
+    "name": "<p><strong>是否需要请求人更新？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "companyCodeSelected",
+    "name": "<p><strong>请选择要进行支付期限变更的公司代码</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": "purchasingOrgSelected",
+    "name": "<p><strong>请选择提出变更请求的采购组织</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 75,
+    "fieldName": "directDebitCompanyCode",
+    "name": "<p><strong>选择要进行直接扣款变更的公司代码</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 93,
+    "fieldName": "paymentMethodcc",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">选择要进行支付方式变更的公司代码</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 109,
+    "fieldName": "companycodeforAccountingdata",
+    "name": "<p><strong>选择要进行会计数据变更的公司代码</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 113,
+    "fieldName": "porgsforpurchasingdata",
+    "name": "<p><strong>选择要进行采购数据变更的采购组织</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 118,
+    "fieldName": "taxinfomessage",
+    "name": "无效(1)",
+    "description": "“<p><strong style=\\\"color: rgb(209, 52, 56); background-color: rgba(0, 0, 0, 0);\\\"><em>不得变更税务信息，仅可补充缺失的详细信息</em></strong></p>”",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 125,
+    "fieldName": "existingAccountGroup",
+    "name": "<p><strong>账户组</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 127,
+    "fieldName": "vscierror",
+    "name": "无效(1)（1）",
+    "description": "“<p><strong style=\\\"background-color: rgba(0, 0, 0, 0); color: rgb(209, 52, 56);\\\"><em>仅可对使用账户组 0002 创建的供应商更新公司名称/地址</em></strong></p>”",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 18,
+    "fieldName": "companyCode",
+    "name": "<p><strong>当前公司代码</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 37,
+    "fieldName": "existingPurchsingOrg",
+    "name": "<p><strong>当前采购组织</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 85,
+    "fieldName": "updatedBy",
+    "name": "<p><strong>谁将提供更新的银行信息？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Supplier": "供应商",
+      "Requestor": "请求人"
+    },
+    "type": "field"
+  },
+  {
+    "id": 88,
+    "fieldName": "changestwo",
+    "name": "<p><strong>选择公司代码/采购组织级别的变更</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "",
+    "choices": {
+      "Payment Terms": "支付期限",
+      "Accounting data": "会计数据",
+      "Payment Method": "支付方式",
+      "None": "无",
+      "Purchasing data": "采购数据"
+    },
+    "type": "field"
+  },
+  {
+    "id": 29,
+    "fieldName": "paymentTermLevel",
+    "name": "<p><strong>选择您想要变更支付期限的级别？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Purchasing Org": "采购组织",
+      "Company Code": "公司代码",
+      "Both": "二者"
+    },
+    "type": "field"
+  },
+  {
+    "id": 130,
+    "fieldName": "OtherChangeComments",
+    "name": "<p><strong>请详细说明变更</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 116,
+    "fieldName": "isMasterDataApprovalNeeded",
+    "name": "<p><strong>是否需要主数据审批？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 11,
+    "fieldName": "changeOptions",
+    "name": "<p><strong>选择您要在一般级别进行的变更</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Contact details": "详细联系信息",
+      "Bank information": "银行信息",
+      "Change vendor hierarchy": "变更供应商层次结构",
+      "Scope": "范围",
+      "Company name/Address": "公司名称/地址",
+      "Reference data": "参考数据",
+      "Tax information": "税务信息",
+      "None": "无",
+      "Other": "其他"
+    },
+    "type": "field"
+  }
+]

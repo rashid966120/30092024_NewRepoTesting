@@ -1,0 +1,75 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "SAP Ariba 详细信息表",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Ariba Network 详细信息",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": null,
+    "description": "“<p><strong> Lonza 首选 SAP Ariba Network 与供应商进行业务交流和文档交换。</strong></p><p><strong>如您已使用 SAP Ariba Network，请向我们提供以下信息以简化准入流程。</strong></p> “",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "isSAPSupplier",
+    "name": "<p><strong>已与 SAP Ariba Network 合作</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "aribaNetworkID",
+    "name": "<p><strong>Ariba Network ID (ANID)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "sapContact",
+    "name": "<p><strong>SAP Ariba 联系人员详细信息</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "联系人",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "accountType",
+    "name": "<p><strong>账户类型</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Enterprise": "企业",
+      "Standard": "标准"
+    },
+    "type": "field"
+  }
+]

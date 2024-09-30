@@ -1,0 +1,104 @@
+[
+  {
+    "id": null,
+    "name": "Sous-processus d'intégration",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 144,
+    "name": "Mise à jour des informations sur l'entreprise - Numéro DUNS",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 97,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 132,
+    "name": "Mise à jour de la catégorie réglementaire par le demandeur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 122,
+    "name": "Mise à jour du document client Lonza par le demandeur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 96,
+    "name": "Mise à jour du document de fournisseur occasionnel par le demandeur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 45,
+    "name": "Recueillir les documents relatifs à l'intégration",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 70,
+    "name": "Valider le code de banque",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 71,
+    "name": "Créer un code de banque dans SAP",
+    "type": null,
+    "description": "Si une banque non standard existe dans SAP, veuillez l'utiliser ou créer une nouvelle banque dans SAP avec le code de banque standard."
+  },
+  {
+    "id": 119,
+    "name": "Mode de paiement par défaut",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 34,
+    "name": "Groupe de pré-approbation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 145,
+    "name": "Approbation des conditions de paiement par Global P2P",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 146,
+    "name": "Approbation du prélèvement automatique par Global Treasury",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 147,
+    "name": "Approbation du prélèvement automatique par les comptes fournisseurs",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 36,
+    "name": "Approbation de la direction mondiale des données de base",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 148,
+    "name": "Notification de rejet des conditions de paiement",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 149,
+    "name": "Notification de rejet du prélèvement automatique",
+    "type": null,
+    "description": null
+  }
+]

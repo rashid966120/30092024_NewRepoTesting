@@ -1,0 +1,50 @@
+[
+  {
+    "id": null,
+    "name": "Intégration des partenaires de la chaîne d'approvisionnement",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Examen préliminaire de l'assurance qualité du site",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Processus qualité pour l'intégration des partenaires de la chaîne d'approvisionnement",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "Mise à jour du statut du fournisseur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Corriger les erreurs de données lors de la création de la chaîne d'approvisionnement",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Créer un partenaire de la chaîne d'approvisionnement",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "Mettre à jour le champ d’application",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Notification de rejet du fournisseur au demandeur",
+    "type": null,
+    "description": "La création du fournisseur est rejetée par le contrôle qualité du site."
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": null,
+    "name": "新供应链合作伙伴准入",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "现场 QA 审查",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 27,
+    "name": "收集供应商质量承诺表",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 29,
+    "name": "供应商质量承诺",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "评估和 QAA 表格创建",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "GQCSC 审查和评估分配",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "GQCSC 审查和 QAA/SCL 分配",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "创建评估执行人表",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "创建 QAA 执行人表",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "分配评估任务",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 12,
+    "name": "分配 QAA 任务",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 16,
+    "name": "为供应商下载和上传表格创建",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 17,
+    "name": "收集评估和 QAA 文件",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 19,
+    "name": "为所请求的供应商完成的评估请求",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "要为请求供应商完成的协议请求",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 22,
+    "name": "用户分配",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 23,
+    "name": "所请求供应商的供应商评估结果",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 24,
+    "name": "所请求供应商的现场 QA 协商",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 25,
+    "name": "GQCSC 对所请求供应商的 QAA 审查",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 26,
+    "name": "现场最终 QA 审查",
+    "type": null,
+    "description": null
+  }
+]

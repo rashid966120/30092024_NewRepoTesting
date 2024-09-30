@@ -1,0 +1,230 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Données relatives à la qualification du fournisseur",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Données relatives à la qualification du fournisseur",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 25,
+    "fieldName": null,
+    "name": "Déclaration de la chaîne d'approvisionnement",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 34,
+    "fieldName": null,
+    "name": "Formulaire de qualification du client",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 47,
+    "fieldName": "supplierAddress",
+    "name": "<p><strong>Veuillez fournir l'adresse du fournisseur</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 53,
+    "fieldName": "q53__p__strong_Need_QA_assessment_",
+    "name": "<p><strong>Besoin d'une évaluation d'assurance qualité</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 21,
+    "fieldName": "scd",
+    "name": "<p><strong>Télécharger le modèle de formulaire de déclaration de la chaîne d'approvisionnement</strong></p>",
+    "description": null,
+    "helpText": "<p><a href=\"https://dms.lonzagroup.net/D2/servlet/EffectiveDownload?_docbase=DCTMPROD&amp;_locale=en&amp;event_name=d2_view&amp;name=GROUP-101339\" rel=\"noopener noreferrer\" target=\"_blank\">https://dms.lonzagroup.net/D2/servlet/EffectiveDownload?_docbase=DCTMPROD&amp;_locale=en&amp;event_name=d2_view&amp;name=GROUP-101339</a></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "materialName",
+    "name": "<p><strong>Nom/Description du matériel du fournisseur</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 9,
+    "fieldName": "materialNumber",
+    "name": "<p><strong>Numéro de matériel du fournisseur</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "genericName",
+    "name": "<p><strong>Nom(s) générique(s) - (Si inconnu, saisissez N/A)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 15,
+    "fieldName": "casNumber",
+    "name": "<p><strong>Numéro CAS</strong><strong style=\"color: rgb(62, 68, 86);\"> -(Si inconnu, saisissez N/A)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 11,
+    "fieldName": "sapMatNumber",
+    "name": "<p><strong>Numéro de matériau Lonza SAP</strong><strong style=\"color: rgb(62, 68, 86);\"> -(Si inconnu, saisissez N/A)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 58,
+    "fieldName": "serviceDescription",
+    "name": "<p>Description du service</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 60,
+    "fieldName": "equipmentDescription",
+    "name": "<p>Description de l'équipement/logiciel</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 24,
+    "fieldName": "scdAttachment",
+    "name": "<p><strong>Télécharger le formulaire de déclaration de la chaîne d'approvisionnement</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 38,
+    "fieldName": "clientQualificationForm",
+    "name": "<p><strong>Télécharger le formulaire de qualification du client complété</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 41,
+    "fieldName": "poDate",
+    "name": "<p><strong>Date limite pour placer un BC</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "> 6 months": "> 6  mois",
+      "< 3 months": "< 3 mois",
+      "3 to 6 months": "3 à 6 mois"
+    },
+    "type": "field"
+  },
+  {
+    "id": 62,
+    "fieldName": "q62__p__strong_Selected_category_p",
+    "name": "<p><strong>Catégorie sélectionnée selon GROUP-99350</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 44,
+    "fieldName": "uploadCSD",
+    "name": "<p><strong>Souhaitez-vous télécharger le formulaire SCD (déclaration de la chaîne d'approvisionnement) ?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 28,
+    "fieldName": "isclientQualified",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">S'agit-il d'un fournisseur qualifié par le client ?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "classtype",
+    "name": "<p><strong>A quelles fins le fournisseur sera-t-il utilisé ?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Equipment/Software": "Equipement/Logiciel",
+      "Services": "Services",
+      "Materials": "Matériaux"
+    },
+    "type": "field"
+  },
+  {
+    "id": 18,
+    "fieldName": "materialCategory",
+    "name": "<p><strong>Veuillez sélectionner la ou les catégories applicables selon GROUP-99350</strong></p>",
+    "description": "Au moins une catégorie pour chaque type d’utilisation sélectionné doit être incluse.",
+    "helpText": "<p><strong style=\"color: rgb(230, 0, 0);\"><em>Au moins une catégorie pour chaque type d'utilisation sélectionné doit être incluse&espace insécable</em></strong></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

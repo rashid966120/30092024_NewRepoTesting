@@ -1,0 +1,20 @@
+[
+  {
+    "id": null,
+    "name": "Processus d'approbation du prélèvement automatique",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Approbation du prélèvement automatique par Global Treasury",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Approbation du prélèvement automatique par la comptabilité fournisseurs",
+    "type": null,
+    "description": null
+  }
+]

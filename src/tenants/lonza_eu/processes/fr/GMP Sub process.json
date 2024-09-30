@@ -1,0 +1,188 @@
+[
+  {
+    "id": null,
+    "name": "Sous-processus GMP",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Recueillir des documents relatifs à la qualité",
+    "type": null,
+    "description": "Veuillez remplir le formulaire ci-joint, le signer et le télécharger au format PDF une fois rempli."
+  },
+  {
+    "id": 71,
+    "name": "Engagements Qualité Fournisseurs",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 85,
+    "name": "Documents de qualité à signer",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 87,
+    "name": "Examen et certification (qualité)",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Examen de l'assurance qualité du site de la SCD",
+    "type": null,
+    "description": "Veuillez consulter la déclaration de la chaîne d'approvisionnement (SCD) fournie et remplir le formulaire pour le fournisseur demandé et pour le(s) partenaire(s) de la chaîne d'approvisionnement associé(s). Demandez des évaluations et/ou des accords de qualité (mises à jour) partout où cela est nécessaire pour répondre aux normes du GROUPE-99350. Veuillez également demander la création de numéros de fournisseur SAP pour les partenaires SC qui ne sont pas encore dans SAP"
+  },
+  {
+    "id": 53,
+    "name": "Création de formulaires d'évaluation et de QAA",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 88,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 54,
+    "name": "Examen et attribution des évaluations par le GQCSC",
+    "type": null,
+    "description": "Veuillez examiner les demandes soulevées par le service d’assurance qualité du site par rapport au SCD fourni, aux exigences du groupe 99350 et au statut dans TrackWise. \nSi vous n'êtes pas d'accord avec les demandes d'assurance qualité du site, vous pouvez les modifier en conséquence, mais l'alignement et la clarification avec l'assurance qualité du site doivent être assurés avant d'appliquer les modifications.\nTous les documents téléchargés pour être complétés par le fournisseur demandé et/ou le partenaire de la chaîne d'approvisionnement doivent être correctement pré-remplis.\nL’attribution des tâches sera effectuée dans une étape distincte."
+  },
+  {
+    "id": 55,
+    "name": "Examen et attribution de QAA/SCL par le GQCSC",
+    "type": null,
+    "description": "Veuillez examiner les demandes soulevées par le contrôle qualité du site par rapport à la SCD fournie, aux exigences du groupe 99350 et au statut dans le DMS et sur le plan dynamique QAA. \nSi vous n'êtes pas d'accord avec les demandes d'assurance qualité du site, vous pouvez les modifier en conséquence, mais l'alignement et la clarification avec l'assurance qualité du site doivent être assurés avant d'appliquer les modifications.\nTous les documents téléchargés pour être complétés par le fournisseur demandé et/ou le partenaire de la chaîne d'approvisionnement doivent être correctement pré-remplis.\nL’attribution des tâches sera effectuée dans une étape distincte."
+  },
+  {
+    "id": 92,
+    "name": "Créer un formulaire de désignation d'un responsable d'évaluation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 93,
+    "name": "Créer un formulaire de désignation d'un responsable de QAA",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 96,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 94,
+    "name": "Attribuer des tâches d'évaluation",
+    "type": null,
+    "description": "Pour une attribution correcte, veuillez utiliser les informations incluses dans les sections « Informations sur le site » (identification de l'adresse du site) et « Évaluation pour le fournisseur VSCI » (type d'évaluation nécessaire)"
+  },
+  {
+    "id": 95,
+    "name": "Attribuer des tâches de QAA",
+    "type": null,
+    "description": "Pour une attribution correcte, veuillez utiliser les informations incluses dans les sections « Informations sur le site » (identification de l'adresse du site) et « Évaluation pour le fournisseur VSCI » (type d'évaluation nécessaire)"
+  },
+  {
+    "id": 56,
+    "name": "Télécharger et charger le formulaire de création pour le fournisseur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 42,
+    "name": "Recueillir les documents d'évaluation et de QAA",
+    "type": null,
+    "description": "Dans chaque section vous trouverez les documents à remplir. Assurez-vous qu'ils sont téléchargés, remplis et signés (signature à l’encre ou électronique) par des collaborateurs qualifiés et autorisés pour l'entreprise/le site correspondant.\nNe supprimez aucun document que vous avez téléchargé.\nSi vous avez des questions concernant la finalisation de la demande, veuillez nous contacter en utilisant la fonctionnalité « Demande d'informations » fournie.\nTéléchargez le document final au format PDF."
+  },
+  {
+    "id": 100,
+    "name": "Évaluation pour le fournisseur principal - Fournisseur",
+    "type": null,
+    "description": "Dans chaque section vous trouverez les documents à remplir. Assurez-vous qu'ils sont téléchargés, remplis et signés (signature à l’encre ou électronique) par des collaborateurs qualifiés et autorisés pour l'entreprise/le site correspondant.\nNe supprimez aucun document que vous avez téléchargé.\nSi vous avez des questions concernant la finalisation de la demande, veuillez nous contacter en utilisant la fonctionnalité « Demande d'informations » fournie.\nTéléchargez le document final au format PDF."
+  },
+  {
+    "id": 102,
+    "name": "Évaluation pour le fournisseur VSCI - Fournisseur",
+    "type": null,
+    "description": "Dans chaque section vous trouverez les documents à remplir. Assurez-vous qu'ils sont téléchargés, remplis et signés (signature à l’encre ou électronique) par des collaborateurs qualifiés et autorisés pour l'entreprise/le site correspondant.\nNe supprimez aucun document que vous avez téléchargé.\nSi vous avez des questions concernant la finalisation de la demande, veuillez nous contacter en utilisant la fonctionnalité « Demande d'informations » fournie.\nTéléchargez le document final au format PDF."
+  },
+  {
+    "id": 104,
+    "name": "QAA pour le fournisseur principal - Fournisseur",
+    "type": null,
+    "description": "Dans chaque section vous trouverez les documents à remplir. Assurez-vous qu'ils sont téléchargés, remplis et signés (signature à l’encre ou électronique) par des collaborateurs qualifiés et autorisés pour l'entreprise/le site correspondant.\nNe supprimez aucun document que vous avez téléchargé.\nSi vous avez des questions concernant la finalisation de la demande, veuillez nous contacter en utilisant la fonctionnalité « Demande d'informations » fournie.\nTéléchargez le document final au format PDF."
+  },
+  {
+    "id": 106,
+    "name": "QAA pour le fournisseur VSCI - Fournisseur",
+    "type": null,
+    "description": "Dans chaque section vous trouverez les documents à remplir. Assurez-vous qu'ils sont téléchargés, remplis et signés (signature à l’encre ou électronique) par des collaborateurs qualifiés et autorisés pour l'entreprise/le site correspondant.\nNe supprimez aucun document que vous avez téléchargé.\nSi vous avez des questions concernant la finalisation de la demande, veuillez nous contacter en utilisant la fonctionnalité « Demande d'informations » fournie.\nTéléchargez le document final au format PDF."
+  },
+  {
+    "id": 127,
+    "name": "Instructions pour télécharger et charger les formulaires d'évaluation et de QAA",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 109,
+    "name": "Affectation des utilisateurs",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 115,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 110,
+    "name": "Évaluations pour les fournisseurs et les partenaires de la chaîne d'approvisionnement demandés",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 111,
+    "name": "QAA du fournisseur par le site et le GQCSC",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 118,
+    "name": "QAA du partenaire de la chaîne d'approvisionnement1 par le site et le GQCSC",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 120,
+    "name": "QAA du partenaire de la chaîne d'approvisionnement2 par le site et le GQCSC",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 122,
+    "name": "QAA du partenaire de la chaîne d'approvisionnement3 par le site et le GQCSC",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 124,
+    "name": "QAA du partenaire de la chaîne d'approvisionnement4 par le site et le GQCSC",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Examen final d'assurance qualité du site",
+    "type": null,
+    "description": null
+  }
+]

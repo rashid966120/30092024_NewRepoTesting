@@ -1,0 +1,256 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Données comptables",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 18,
+    "fieldName": null,
+    "name": "Données de paiement",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 53,
+    "fieldName": "directDebitAmount",
+    "name": "<p><strong>Montant du prélèvement automatique</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 59,
+    "fieldName": "directDebitFrequency",
+    "name": "<p><strong>Fréquence du prélèvement automatique</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Monthly": "Mensuel",
+      "Yearly": "Annuel",
+      "Other": "Autre"
+    },
+    "type": "field"
+  },
+  {
+    "id": 62,
+    "fieldName": "DebitFrequencyIfOther",
+    "name": "<p><strong>Fréquence du prélèvement automatique (si vous avez choisi « Autre »)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 68,
+    "fieldName": "annualExpenditure",
+    "name": "<p><strong>Dépenses annuelles</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 77,
+    "fieldName": "isdirectDebit",
+    "name": "<p><strong>Les factures doivent-elles être payées par prélèvement automatique ?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 74,
+    "fieldName": "justificationForPaymentTerm",
+    "name": "<p><strong>Vous avez sélectionné un délai de paiement plus court que les délais de paiement standard de Lonza. Veuillez ajouter une justification claire expliquant pourquoi le délai de paiement de ce fournisseur doit être inférieur à 60 jours.</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 83,
+    "fieldName": "incoTerms",
+    "name": "<p><strong>IncoTerms</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 88,
+    "fieldName": "incoTermsLocation1",
+    "name": "<p><strong>Localisation IncoTerms (facultatif)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 91,
+    "fieldName": "accountGroup",
+    "name": "<p>Groupe de comptes</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 93,
+    "fieldName": "_p_CompanyEntity__p_",
+    "name": "<p>Entité de la société</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 115,
+    "fieldName": "country",
+    "name": "<p>Pays</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 106,
+    "fieldName": "paymentMethods",
+    "name": "<p><strong>Mode de paiement</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 117,
+    "fieldName": "reconAccountException",
+    "name": "<p>Exception à la réconciliation des comptes</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 95,
+    "fieldName": "reconAccount",
+    "name": "<p>Réconciliation des comptes</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 97,
+    "fieldName": "sortKey",
+    "name": "<p>Code guichet</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 99,
+    "fieldName": "planningGroup",
+    "name": "<p>Groupe de planification</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 101,
+    "fieldName": "clerkAbbr",
+    "name": "<p>Abréviation de l’agent</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 103,
+    "fieldName": "checkDoubleInv",
+    "name": "<p>Vérifier les factures en double</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 120,
+    "fieldName": "orderingCurrency",
+    "name": "<p><strong>Veuillez sélectionner la devise de la commande</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 48,
+    "fieldName": "directDebitCategory",
+    "name": "<p><strong>Catégorie de prélèvement automatique</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 50,
+    "fieldName": "directDebitSubCategory",
+    "name": "<p><strong>Sous-catégorie de prélèvement automatique</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 65,
+    "fieldName": "DirectDebitDate",
+    "name": "<p><strong>Date du prélèvement automatique</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 21,
+    "fieldName": "paymentTerms",
+    "name": "<p><strong>Quelles sont les conditions de paiement convenues ?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

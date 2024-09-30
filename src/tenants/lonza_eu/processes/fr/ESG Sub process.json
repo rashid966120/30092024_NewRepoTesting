@@ -1,0 +1,74 @@
+[
+  {
+    "id": null,
+    "name": "Sous-processus ESG",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Demande d'informations ESG au fournisseur",
+    "type": null,
+    "description": "Veuillez remplir les informations ESG requises pour procéder à votre intégration."
+  },
+  {
+    "id": 14,
+    "name": "Formulaire ESG du fournisseur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "Examen manuel des scores ESG",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 38,
+    "name": "Mise à jour du score Ecovadis",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 32,
+    "name": "Évaluation du score D&B",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 49,
+    "name": "Évaluation du score Integrity Next",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 33,
+    "name": "Invitation Integrity Next",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 45,
+    "name": "Période d'attente pour les résultats d’Integrity Next",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Examen de l'approvisionnement responsable",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 44,
+    "name": "Résultat du contrôle ESG",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 37,
+    "name": "Notification des résultats du contrôle ESG au demandeur",
+    "type": null,
+    "description": null
+  }
+]

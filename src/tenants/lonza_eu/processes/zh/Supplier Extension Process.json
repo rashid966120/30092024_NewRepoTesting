@@ -1,0 +1,92 @@
+[
+  {
+    "id": null,
+    "name": "供应商扩展流程",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "抓取范围",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "默认扩展数据",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "请求人更新数据",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 14,
+    "name": "早期现场 QA 审查",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "波次 1 资质流程",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "Global P2P 付款条件审批",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 12,
+    "name": "全球财务部直接扣款审批",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "AP 直接扣款审批",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "修正数据错误",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "扩展供应商",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 20,
+    "name": "范围更新",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 18,
+    "name": "支付期限被拒通知",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 19,
+    "name": "直接扣款拒绝通知",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 17,
+    "name": "向请求人发送扩展拒绝通知",
+    "type": null,
+    "description": null
+  }
+]

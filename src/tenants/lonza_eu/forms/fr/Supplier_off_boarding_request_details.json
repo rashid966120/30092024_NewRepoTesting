@@ -1,0 +1,307 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Détails de la demande de départ du fournisseur",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 15,
+    "fieldName": null,
+    "name": "Données sur l'entreprise et l'organisation d’achat",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 8,
+    "fieldName": null,
+    "name": "Modifier les renseignements",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 97,
+    "fieldName": null,
+    "name": "Détails sur le blocage/déblocage",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 150,
+    "fieldName": null,
+    "name": "Détails de la catégorie",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 128,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "requestor",
+    "name": "<p><strong>Demandé par</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "businessJustification",
+    "name": "<p><strong>Justification opérationnelle</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 112,
+    "fieldName": "typeOfBlock",
+    "name": "<p><strong>Veuillez sélectionner le type de blocage</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Payment block": "Blocage de paiement",
+      "Posting block": "Blocage de publication",
+      "Both": "Les deux"
+    },
+    "type": "field"
+  },
+  {
+    "id": 137,
+    "fieldName": "requestorSite",
+    "name": "<p><strong>Sélectionnez le site du demandeur</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 106,
+    "fieldName": "blockPurchasingOrg",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Sélectionnez l'organisation d'achat auprès de laquelle vous souhaitez bloquer/débloquer le fournisseur</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 100,
+    "fieldName": "blockType",
+    "name": "<p><strong>Sélectionnez le niveau auquel vous souhaitez bloquer/débloquer le fournisseur</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "All company codes": "Tous les codes d’entreprise",
+      "Specific company code": "Code d'entreprise spécifique",
+      "Specific purchasing org": "Organisation d'achat spécifique",
+      "All purchasing org": "Toutes les organisations d'achat"
+    },
+    "type": "field"
+  },
+  {
+    "id": 146,
+    "fieldName": "blockReason",
+    "name": "<p><strong>Veuillez sélectionner la raison du blocage/de la désactivation</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Quality performance": "Performances en matière de qualité",
+      "Other (specify in the field Business Justification)": "Autre (préciser dans le champ Justification opérationnelle)",
+      "Invalid trading partner (Entity doesn’t exist anymore)": "Partenaire commercial non valide (l'entité n'existe plus)",
+      "Delivery performance": "Performances en matière de livraison",
+      "Ethics & Compliance": "Éthique et conformité"
+    },
+    "type": "field"
+  },
+  {
+    "id": 149,
+    "fieldName": "existingAccountGroup",
+    "name": "<p><strong>Groupe de comptes</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 118,
+    "fieldName": "isEarlyQAReviewNeeded",
+    "name": "<p><strong>Une évaluation préliminaire de l’assurance qualité est-elle nécessaire ?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 140,
+    "fieldName": "isBlock",
+    "name": "<p>Est un blocage</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 115,
+    "fieldName": "isNotificationToSiteRequired",
+    "name": "<p><strong>Une notification du blocage au site est-elle requise ?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 121,
+    "fieldName": "isSAPUpdateRequired",
+    "name": "<p><strong>La mise à jour SAP est-elle requise ?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 124,
+    "fieldName": "q124_isDeactivateNotificationRequir",
+    "name": "<p><strong>La notification de désactivation est-elle requise ?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 11,
+    "fieldName": "changeOptions",
+    "name": "<p><strong>Sélectionnez l'action :</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Reactivate": "Réactiver",
+      "Block": "Bloquer",
+      "Deactivate": "Désactiver",
+      "Unblock": "Débloquer"
+    },
+    "type": "field"
+  },
+  {
+    "id": 156,
+    "fieldName": "division",
+    "name": "<p><strong>Sélectionnez la division</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "CHI": "CHI",
+      "BIO, C&G": "BIO, C&G",
+      "SM": "SM",
+      "HS": "HS"
+    },
+    "type": "field"
+  },
+  {
+    "id": 127,
+    "fieldName": "isReactivationWorkflowRequired",
+    "name": "<p><strong>Le processus de réactivation est-il requis ?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 153,
+    "fieldName": "category",
+    "name": "<p><strong>Sélectionnez la catégorie</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 18,
+    "fieldName": "companyCode",
+    "name": "<p><strong>Codes d'entreprise existants</strong></p>",
+    "description": "Codes d'entreprise dans le cadre de la vague 1",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 37,
+    "fieldName": "existingPurchsingOrg",
+    "name": "<p><strong>Organisations d'achat existantes</strong></p>",
+    "description": "Les organisations d'achats concernées par la vague 1",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 103,
+    "fieldName": "blockCompanyCode",
+    "name": "<p><strong>Sélectionnez le code d'entreprise pour lequel vous souhaitez bloquer/débloquer le fournisseur</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 159,
+    "fieldName": "existingCompanyEntities",
+    "name": "<p><strong>Sélectionnez le code d'entreprise pour la réactivation</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

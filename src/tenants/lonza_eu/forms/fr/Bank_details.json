@@ -1,0 +1,112 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Coordonnées bancaires",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 11,
+    "fieldName": null,
+    "name": "Code de banque",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "bankname",
+    "name": "<p>Nom de la banque</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "isbankkeyexisting",
+    "name": "<p>Le code de banque existe-t-il ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "bankkey",
+    "name": "<p>Code de banque standard</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "bankid",
+    "name": "<p>IBAN/code de banque</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 20,
+    "fieldName": "q20__p_Search_bank_key_using_swift",
+    "name": "<p>Rechercher le code de banque à l'aide du code SWIFT.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 17,
+    "fieldName": "manualsapbankkey",
+    "name": "<p>Entrez le code de banque SAP.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 23,
+    "fieldName": "helpTextForBankKey",
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em> Le code de banque standard tiré de nos données ORO n'existe pas dans le système Lonza SAP. </em></strong></p><p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>Vous pouvez saisir un code de banque SAP que vous souhaitez utiliser pour ces coordonnées bancaires particulières. </em></strong></p><p><br></p><p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em> Remarque</em> : Avant de soumettre cette tâche, assurez-vous de créer le code de banque standard comme code de baque dans SAP s’il n'existe pas déjà dans la base de données SAP.</strong></p> \"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "searchusingswift",
+    "name": "<p>Voulez-vous rechercher un modèle bancaire existant avec un code SWIFT ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

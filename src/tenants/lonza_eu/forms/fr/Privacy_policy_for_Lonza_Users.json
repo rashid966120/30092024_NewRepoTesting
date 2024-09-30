@@ -1,0 +1,32 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Politique de confidentialité pour les utilisateurs de Lonza",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": null,
+    "description": "« <p><strong style=\\\"color: black;\\\"><em> Lorsque vous utilisez le système, par exemple pour intégrer un nouveau fournisseur, votre nom et votre adresse e-mail peuvent être partagés avec ce fournisseur, afin qu'il puisse communiquer avec vous pour demander des informations supplémentaires ou clarifier certaines questions.</em></strong></p> »",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

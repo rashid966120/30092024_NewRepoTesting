@@ -1,0 +1,188 @@
+[
+  {
+    "id": null,
+    "name": "GMP 子流程",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "收集质量相关文件",
+    "type": null,
+    "description": "请填写所附表格并签署，完成后以 PDF 格式上传"
+  },
+  {
+    "id": 71,
+    "name": "供应商质量承诺",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 85,
+    "name": "需要签署的质量文件",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 87,
+    "name": "审查与确认（质量）",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "SCD 现场 QA 审查",
+    "type": null,
+    "description": "请查看所提供的供应链申报单 (SCD) ，并填写所请求供应商及相关供应链合作伙伴的表格。需要满足 GROUP-99350 标准时，请求评估和/或质量协议（更新）此外，请为尚未加入 SAP 的 SC 合作伙伴申请创建 SAP 供应商编号"
+  },
+  {
+    "id": 53,
+    "name": "评估和 QAA 表格创建",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 88,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 54,
+    "name": "GQCSC 审查和分配评估",
+    "type": null,
+    "description": "请对照所提供的 SCD、Group-99350 要求和 TrackWise 中的状态审查现场 QA 提出的请求。\n如果您不同意现场 QA 的请求，可进行相应的更改，但更改前应确保与现场 QA 保持一致并澄清。\n对由所请求的供应商和/或供应链合作伙伴上传并完成的全部文件都应进行适当的预先填写。\n任务分配将在单独的步骤中完成。"
+  },
+  {
+    "id": 55,
+    "name": "GQCSC 审查并分配 QAA/SCL",
+    "type": null,
+    "description": "请对照所提供的 SCD、Group-99350 要求和 TrackWise 中的状态审查现场 QA 提出的请求。\n如果您不同意现场 QA 的请求，可进行相应的更改，但更改前应确保与现场 QA 保持一致并澄清。\n对由所请求的供应商和/或供应链合作伙伴上传并完成的全部文件都应进行适当的预先填写。\n任务分配将在单独的步骤中完成。"
+  },
+  {
+    "id": 92,
+    "name": "创建评估执行人表格",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 93,
+    "name": "创建 QAA 执行人表格",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 96,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 94,
+    "name": "分配评估任务",
+    "type": null,
+    "description": "为正确分配，请使用“场所信息”部分（场所地址标识）和“VSCI 供应商评估”部分（所需评估类型）中包含的信息"
+  },
+  {
+    "id": 95,
+    "name": "分配 QAA 任务",
+    "type": null,
+    "description": "为正确分配，请使用“场所信息”部分（场所地址标识）和“VSCI 供应商评估”部分（所需评估类型）中包含的信息"
+  },
+  {
+    "id": 56,
+    "name": "为供应商创建下载和上传表格",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 42,
+    "name": "收集评估和 QAA 文件",
+    "type": null,
+    "description": "您在各个部分都会找到要完成的文件。确保由相应公司/场所有资质且经授权的同事下载、处理和签署（手写签名或电子签名）这些文件。\n切勿删除任何已下载的文档。\n如有与完成请求相关的问题，请使用所提供的“请求信息”功能与我们联系\n以 pdf 格式上传最终文件。"
+  },
+  {
+    "id": 100,
+    "name": "主要供应商评估 - 供应商",
+    "type": null,
+    "description": "您在各个部分都会找到要完成的文件。确保由相应公司/场所有资质且经授权的同事下载、处理和签署（手写签名或电子签名）这些文件。\n切勿删除任何已下载的文档。\n如有与完成请求相关的问题，请使用所提供的“请求信息”功能与我们联系\n以 pdf 格式上传最终文件。"
+  },
+  {
+    "id": 102,
+    "name": "VSCI 供应商评估 - 供应商",
+    "type": null,
+    "description": "您在各个部分都会找到要完成的文件。确保由相应公司/场所有资质且经授权的同事下载、处理和签署（手写签名或电子签名）这些文件。\n切勿删除任何已下载的文档。\n如有与完成请求相关的问题，请使用所提供的“请求信息”功能与我们联系\n以 pdf 格式上传最终文件。"
+  },
+  {
+    "id": 104,
+    "name": "主要供应商 QAA - 供应商",
+    "type": null,
+    "description": "您在各个部分都会找到要完成的文件。确保由相应公司/场所有资质且经授权的同事下载、处理和签署（手写签名或电子签名）这些文件。\n切勿删除任何已下载的文档。\n如有与完成请求相关的问题，请使用所提供的“请求信息”功能与我们联系\n以 pdf 格式上传最终文件。"
+  },
+  {
+    "id": 106,
+    "name": "VSCI 供应商 QA - 供应商",
+    "type": null,
+    "description": "您在各个部分都会找到要完成的文件。确保由相应公司/场所有资质且经授权的同事下载、处理和签署（手写签名或电子签名）这些文件。\n切勿删除任何已下载的文档。\n如有与完成请求相关的问题，请使用所提供的“请求信息”功能与我们联系\n以 pdf 格式上传最终文件。"
+  },
+  {
+    "id": 127,
+    "name": "下载和上传评估和 QAA 表说明",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 109,
+    "name": "用户分配",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 115,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 110,
+    "name": "对所请求的供应商和供应链合作伙伴的评估",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 111,
+    "name": "由场所和 GQCSC 所请求的供应商 QAA",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 118,
+    "name": "由场所和 GQCSC 对供应链一级合作伙伴进行的 QAA",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 120,
+    "name": "由场所和 GQCSC 对供应链二级合作伙伴进行的 QAA",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 122,
+    "name": "由场所和 GQCSC 对供应链三级合作伙伴进行的 QAA",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 124,
+    "name": "由场所和 GQCSC 对供应链四级合作伙伴进行的 QAA",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "最终的现场 QA 评审",
+    "type": null,
+    "description": null
+  }
+]

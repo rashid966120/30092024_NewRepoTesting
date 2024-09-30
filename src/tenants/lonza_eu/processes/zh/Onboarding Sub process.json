@@ -1,0 +1,104 @@
+[
+  {
+    "id": null,
+    "name": "准入子流程",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 144,
+    "name": "更新公司信息 - DUNS",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 97,
+    "name": null,
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 132,
+    "name": "请求更新人监管类别",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 122,
+    "name": "请求人更新 Lonza 客户文件",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 96,
+    "name": "请求人一次性更新供应商文档",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 45,
+    "name": "收集准入相关文件",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 70,
+    "name": "验证银行密钥",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 71,
+    "name": "在 SAP 中创建银行密钥",
+    "type": null,
+    "description": "如果 SAP 中存在非标准银行，请使用该银行或用标准银行代码在 SAP 中创建新银行。"
+  },
+  {
+    "id": 119,
+    "name": "默认支付方式",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 34,
+    "name": "预审批组",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 145,
+    "name": "Global P2P 支付期限审批",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 146,
+    "name": "全球财务部直接扣款审批",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 147,
+    "name": "AP 直接扣款审批",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 36,
+    "name": "全球主数据管理审批",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 148,
+    "name": "支付期限被拒通知",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 149,
+    "name": "直接扣款被拒通知",
+    "type": null,
+    "description": null
+  }
+]

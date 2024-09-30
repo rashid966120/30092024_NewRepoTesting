@@ -1,0 +1,233 @@
+[
+  {
+    "id": "Test process",
+    "requestName": "测试流程",
+    "shortDescription": "测试流程",
+    "stepTitles": {
+      "Procurement": "采购",
+      "Address": "地址",
+      "Compliance": "合规",
+      "Quality": "质量",
+      "Legal": "法务",
+      "Review Process": "审查流程",
+      "Supplier": "供应商",
+      "Onboarding details": "准入详情",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Onboarding Process",
+    "requestName": "供应商准入",
+    "shortDescription": "波次 1",
+    "stepTitles": {
+      "Procurement": "采购",
+      "Business Need": "业务需求",
+      "Accounting data": "会计数据",
+      "Quality": "质量",
+      "Legal": "法务",
+      "Review Process": "审查流程",
+      "Supplier": "供应商",
+      "IT": "IT",
+      "Supplier Qualification Data": "供应商资质数据"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Off-boarding Workflow",
+    "requestName": "供应商冻结/解除冻结/停用/重新激活",
+    "shortDescription": "波次 1",
+    "stepTitles": {
+      "Procurement": "采购",
+      "Request Details": "请求详情",
+      "Quality": "质量",
+      "Legal": "法务",
+      "Supplier": "供应商",
+      "Review": "审查",
+      "Error info": "错误信息"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Change Process",
+    "requestName": "供应商变更",
+    "shortDescription": "波次 1",
+    "stepTitles": {
+      "Procurement": "采购",
+      "Request Details": "请求详情",
+      "Payment Details": "支付详情",
+      "Quality": "质量",
+      "Review Process": "审查流程",
+      "Tax information": "税务信息",
+      "Classification data": "分类数据",
+      "Supplier": "供应商",
+      "Onboarding details": "准入详情"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supply Chain Partner Onboarding",
+    "requestName": "供应链合作伙伴准入",
+    "shortDescription": "波次 1",
+    "stepTitles": {
+      "Procurement": "采购",
+      "Business Need": "业务需求",
+      "Supplier qualification data": "供应商资质数据",
+      "Quality": "质量",
+      "Legal": "法务",
+      "Review Process": "审查流程",
+      "Supplier": "供应商",
+      "Error Info": "错误信息",
+      "Company information": "公司信息"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "New Supplier Onboarding process",
+    "requestName": "供应商准入请求",
+    "shortDescription": "波次 2",
+    "stepTitles": {
+      "Procurement": "采购",
+      "Business Need": "业务需求",
+      "Requester": "请求人",
+      "Quality": "质量",
+      "Legal": "法务",
+      "Review Process": "审查流程",
+      "Supplier": "供应商",
+      "Accounting Information": "会计信息",
+      "Supplier Qualification Data": "供应商资质数据"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Extension Process",
+    "requestName": "供应商扩展",
+    "shortDescription": "波次 1",
+    "stepTitles": {
+      "Procurement": "采购",
+      "Business Need": "业务需求",
+      "Compliance": "合规",
+      "Quality": "质量",
+      "Legal": "法务",
+      "Review Process": "审查流程",
+      "Onboarding details": "准入详情",
+      "Supplier Selection": "供应商选择",
+      "IT": "IT"
+    },
+    "engagementAttributes": {
+      "VendorID": "供应商 ID"
+    }
+  },
+  {
+    "id": "Supplier Light Screening Assessment",
+    "requestName": "潜在供应商筛选",
+    "shortDescription": "潜在供应商筛选",
+    "stepTitles": {
+      "Matching Supplier(s)": "匹配供应商",
+      "Business Justification": "业务理由",
+      "Review Process": "审查流程",
+      "Supplier": "供应商"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Bank verification Lonza",
+    "requestName": "供应商银行验证",
+    "shortDescription": "供应商银行验证",
+    "stepTitles": {
+      "Procurement": "采购",
+      "Compliance": "合规",
+      "Quality": "质量",
+      "Documents": "文件",
+      "Legal": "法务",
+      "Review Process": "审查流程",
+      "Supplier": "供应商",
+      "Onboarding details": "准入详情",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Change Workflow for QA",
+    "requestName": "供应商 QA 变更工作流程",
+    "shortDescription": "供应商 QA 变更工作流程",
+    "stepTitles": {
+      "Procurement": "采购",
+      "Compliance": "合规",
+      "Quality": "质量",
+      "Legal": "法务",
+      "Review Process": "审查流程",
+      "Supplier": "供应商",
+      "Onboarding details": "准入详情",
+      "IT": "IT",
+      "Change Details": "变更详情"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "DUNS API summary",
+    "requestName": "DUNS API 摘要",
+    "shortDescription": "DUNS API 摘要",
+    "stepTitles": {
+      "Procurement": "采购",
+      "Basic": "基本",
+      "Details": "详细信息",
+      "Compliance": "合规",
+      "Quality": "质量",
+      "Documents": "文件",
+      "Legal": "法务",
+      "Supplier": "供应商",
+      "Budget": "预算",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Profile Update",
+    "requestName": "供应商资料更新",
+    "shortDescription": "供应商资料更新",
+    "stepTitles": {
+      "Procurement": "采购",
+      "Details": "详细信息",
+      "Compliance": "合规",
+      "Quality": "质量",
+      "Legal": "法务",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Quality Test Process",
+    "requestName": "质量测试流程",
+    "shortDescription": "质量测试流程",
+    "stepTitles": {
+      "Procurement": "采购",
+      "Compliance": "合规",
+      "Quality": "质量",
+      "Documents": "文件",
+      "Legal": "法务",
+      "Review Process": "审查流程",
+      "Supplier": "供应商",
+      "Onboarding details": "准入详情",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "New Supply Chain Partner Onboarding",
+    "requestName": "供应链新合作伙伴准入",
+    "shortDescription": "供应链新合作伙伴准入",
+    "stepTitles": {
+      "Supplier Qualification data": "供应商资质数据",
+      "Procurement": "采购",
+      "Business Need": "业务需求",
+      "Compliance": "合规",
+      "Quality": "质量",
+      "Legal": "法务",
+      "Review Process": "审查流程",
+      "Supplier": "供应商",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": null,
+    "name": "Processus de départ des fournisseurs",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Examen préliminaire de l'assurance qualité",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Processus qualité pour le départ",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Processus de réactivation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Notification de demande de blocage pour l'assurance qualité du site",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "Désactiver la notification de demande pour l'assurance qualité du site",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Corriger les erreurs de données dans la mise à jour du statut",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Mettre à jour le statut du fournisseur dans SAP",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Mettre à jour le champ d’application",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "Déverrouiller/réactiver la notification de rejet au demandeur",
+    "type": null,
+    "description": null
+  }
+]

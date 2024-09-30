@@ -1,0 +1,42 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "D&B 匹配供应商列表",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": "matchingsupplierlist",
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "匹配供应商",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "“<p>请从以下列表中选择<strong>一</strong>家要筛选的供应商。</p><p>                                                                    </p><p>要查看匹配供应商的详细信息，请单击﻿↔﻿选项。</p><p><br></p><p>点击单选按钮选择相应供应商。</p><p><span style=\\\"color: rgb(209, 52, 56);\\\"> &nbsp;</span></p><h5>如果您在列表中找不到合适的供应商，请返回并提供感兴趣的供应商的更多信息（例如地址或 DUNS 编码）。</h5>”",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

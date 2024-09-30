@@ -1,0 +1,232 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "供应商资质数据",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "供应商资质相关数据",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 25,
+    "fieldName": null,
+    "name": "供应链申报",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 34,
+    "fieldName": null,
+    "name": "客户资质表",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 47,
+    "fieldName": "supplierAddress",
+    "name": "<p><strong>请提供供应商地址</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 53,
+    "fieldName": "q53__p__strong_Need_QA_assessment_",
+    "name": "<p><strong>需要 QA 评估</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "materialName",
+    "name": "<p><strong>供应商物料名称/说明</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 9,
+    "fieldName": "materialNumber",
+    "name": "<p><strong>供应商物料编号</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "genericName",
+    "name": "<p><strong>通用名称 - （如果未知，则填写 N/A）</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 15,
+    "fieldName": "casNumber",
+    "name": "<p><strong>CAS 编号</strong><strong style=\"color: rgb(62, 68, 86);\">——（如果未知，则填写 N/A）</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 11,
+    "fieldName": "sapMatNumber",
+    "name": "<p><strong>Lonza SAP 物料编号</strong><strong style=\"color: rgb(62, 68, 86);\">——（如果未知，则填写 N/A）</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 58,
+    "fieldName": "serviceDescription",
+    "name": "<p>服务描述</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 60,
+    "fieldName": "equipmentDescription",
+    "name": "<p>设备/软件描述</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 24,
+    "fieldName": "scdAttachment",
+    "name": "<p><strong>上传供应链申报表</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 38,
+    "fieldName": "clientQualificationForm",
+    "name": "<p><strong>上传已填好的客户资质表</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "classtype",
+    "name": "<p><strong>该供应商有何用途？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Equipment/Software": "设备/软件",
+      "Services": "服务",
+      "Materials": "物料"
+    },
+    "type": "field"
+  },
+  {
+    "id": 62,
+    "fieldName": "q62__p__strong_Selected_category_p",
+    "name": "<p><strong>按照 GROUP-99350 选定的类别</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 44,
+    "fieldName": "uploadCSD",
+    "name": "<p><strong>您是否要上传 SCD（供应链申报）表？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 82,
+    "fieldName": "qualificationType",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">全球供应商资质</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Global Supplier Qualification": "全球供应商资质"
+    },
+    "type": "field"
+  },
+  {
+    "id": 28,
+    "fieldName": "isclientQualified",
+    "name": "<p><strong>这是否为有客户资质的供应商？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 41,
+    "fieldName": "poDate",
+    "name": "<p><strong>按时完成订购资质的最后日期</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "> 6 months": "> 6 个月",
+      "< 3 months": "< 3 个月",
+      "3 to 6 months": "3 至 6 个月"
+    },
+    "type": "field"
+  },
+  {
+    "id": 18,
+    "fieldName": "materialCategory",
+    "name": "<p><strong>请按照 GROUP-99350 选择适用的类别</strong></p>",
+    "description": "对每个选定的使用类型必须至少包括一个类别。",
+    "helpText": "<p><strong style=\"color: rgb(230, 0, 0);\"><em>对每个选定的使用类型必须至少包括一个类别。</em></strong></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

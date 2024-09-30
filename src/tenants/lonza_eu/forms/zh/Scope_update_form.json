@@ -1,0 +1,110 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "范围更新表",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "当前 GMP 状态",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 5,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 17,
+    "fieldName": "supplierUsedFor",
+    "name": "<p><strong>该供应商有何用途？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Equipment/Software": "设备/软件",
+      "Services": "服务",
+      "Materials": "物料"
+    },
+    "type": "field"
+  },
+  {
+    "id": 20,
+    "fieldName": "materialCategory",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">请按照 GROUP-99350 选择适用的类别</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 23,
+    "fieldName": "latestDatetoPlacePO",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">按时完成订购资质的最后日期</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "> 6 months": "> 6 个月",
+      "< 3 months": "< 3 个月",
+      "3 to 6 months": "3 至 6 个月"
+    },
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "requestorSite",
+    "name": "<p><strong>选择请求人的地点</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 8,
+    "fieldName": "setGMPFlag",
+    "name": "<p><strong>您是否想让该供应商与 GMP 相关？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 11,
+    "fieldName": "unsetGMP",
+    "name": "<p><strong>您是否想让该供应商与非 GMP 相关？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "isGMP",
+    "name": "<p><strong>该供应商是否能使用 GMP 标志？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

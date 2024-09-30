@@ -1,0 +1,54 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Examen et certification (qualité)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 44,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 22,
+    "fieldName": "null_1__1__1_",
+    "name": "invalide(1)(1)(1)",
+    "description": "« <p><strong><em> Je certifie par la présente qu'à ma connaissance, les informations présentées ici sont vraies et exactes.</em></strong></p> »",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "isTrue",
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "I hereby certify that to the best of my knowledge, the information presented in all the forms above, is true and correct.": "Je certifie par la présente qu'à ma connaissance, les informations présentées dans tous les formulaires ci-dessus sont vraies et exactes."
+    },
+    "type": "field"
+  },
+  {
+    "id": 69,
+    "fieldName": null,
+    "name": null,
+    "description": "« <p><strong>Formulaires remplis dans cette section : </strong></p><p><br></p><ol><li> Engagement qualité du fournisseur (applicable uniquement pour la qualification des fournisseurs mondiaux)</li><li> Documents de qualité à signer</li></ol> »",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

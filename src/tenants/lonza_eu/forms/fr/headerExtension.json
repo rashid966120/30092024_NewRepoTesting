@@ -1,0 +1,632 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Extension d'en-tête",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Données générales",
+    "description": "",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 11,
+    "fieldName": null,
+    "name": "Classification des fournisseurs",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 22,
+    "fieldName": null,
+    "name": "Classification des entreprises",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 46,
+    "fieldName": null,
+    "name": "Groupe de fournisseurs et usine",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 51,
+    "fieldName": null,
+    "name": "Ancien et nouveau fournisseur",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 60,
+    "fieldName": null,
+    "name": "Fournisseur Petite entreprise",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 71,
+    "fieldName": null,
+    "name": "Hiérarchie des fournisseurs",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 78,
+    "fieldName": null,
+    "name": "Fournisseur ZPOI",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 16,
+    "fieldName": "reasonfordactivate",
+    "name": "<p><strong>Motif de la désactivation/du blocage</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "reasonforblock",
+    "name": "<p><strong>Motif du blocage</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 18,
+    "fieldName": "compliancecategory",
+    "name": "<p><strong>Catégorie de conformité</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "CreditInformationNumber",
+    "name": "<p><strong>Numéro d'information de crédit</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 86,
+    "fieldName": "sciPartner",
+    "name": "<p><strong>Partenaire SCI</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 92,
+    "fieldName": "sustainabilityiskCategory",
+    "name": "<p><strong>Catégorie de risque en matière de développement durable</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 94,
+    "fieldName": "sustainabilityRiskSource",
+    "name": "<p><strong>Source de risque en matière de développement durable</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 96,
+    "fieldName": "aribaNetworkID",
+    "name": "<p><strong>Identifiant du réseau Ariba</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 98,
+    "fieldName": "commodityCode",
+    "name": "<p><strong>Code de marchandise L1-&gt;L2-&gt;L3</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 88,
+    "fieldName": "criticalVendorForPayments",
+    "name": "<p><strong>Fournisseur essentiel pour les paiements</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 90,
+    "fieldName": "paymentHalt",
+    "name": "<p><strong>Arrêt des paiements</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 25,
+    "fieldName": "minority",
+    "name": "<p><strong>Entreprise commerciale appartenant à des minorités</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 27,
+    "fieldName": "womenOwned",
+    "name": "<p><strong>Entreprise commerciale appartenant à des femmes</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 29,
+    "fieldName": "sdb",
+    "name": "<p><strong>SDB : Petite entreprise désavantagée</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": "disabledOwned",
+    "name": "<p><strong>Propriété de personnes handicapées</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 33,
+    "fieldName": "hubZone",
+    "name": "<p><strong>Zone HUB</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 37,
+    "fieldName": "dve",
+    "name": "<p><strong>DVE : Entreprise d’ancien combattant désavantagé</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 39,
+    "fieldName": "dvbe",
+    "name": "<p><strong>DVBE : Entreprise commerciale d’ancien combattant handicapé</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 41,
+    "fieldName": "sdv",
+    "name": "<p><strong>SDV : Sert des anciens combattants handicapés</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 43,
+    "fieldName": "vbe",
+    "name": "<p><strong>VBE : Entreprise commerciale d’ancien combattant</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 45,
+    "fieldName": "viertnamVeteran",
+    "name": "<p><strong>Ancien combattant du Vietnam</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 84,
+    "fieldName": "vendorDuplicationGroup",
+    "name": "<p><strong>Groupe de duplication des fournisseurs</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 50,
+    "fieldName": "vendorGroup",
+    "name": "<p><strong>Groupe de fournisseurs</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 48,
+    "fieldName": "producingPlant",
+    "name": "<p><strong>Usine de production</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 53,
+    "fieldName": "newVendorNumber",
+    "name": "<p><strong>Nouveau numéro de fournisseur LONZA</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 55,
+    "fieldName": "oldLegacyVendorNumber",
+    "name": "<p><strong>Ancien numéro de fournisseur hérité</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 57,
+    "fieldName": "projectName",
+    "name": "<p><strong>Nom du projet</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 59,
+    "fieldName": "plant",
+    "name": "<p><strong>Usine</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 62,
+    "fieldName": "disertSmallBuz",
+    "name": "<p><strong>Petite entreprise certifiée désavantagée</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 64,
+    "fieldName": "hubZoneSmallBuz",
+    "name": "<p><strong>Petite entreprise en zone HUB</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 66,
+    "fieldName": "DisabledveteranOwnedSmallBiz",
+    "name": "<p><strong>Petite entreprise détenue par un ancien combattant handicapé</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 68,
+    "fieldName": "vetOwnedSmallBiz",
+    "name": "<p><strong>Petite entreprise détenue par un ancien combattant</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 70,
+    "fieldName": "womenOwnedSmallBiz",
+    "name": "<p><strong>Petite entreprise détenue par des femmes</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 73,
+    "fieldName": "vendorHierarchy1",
+    "name": "<p><strong>Niveau 1 de la hiérarchie des fournisseurs</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 75,
+    "fieldName": "vendorHierarchy2",
+    "name": "<p><strong>Niveau 2 de la hiérarchie des fournisseurs</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 77,
+    "fieldName": "vendorHierarchy3",
+    "name": "<p><strong>Niveau 3 de la hiérarchie des fournisseurs</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 80,
+    "fieldName": "zpoioldLegacyVendorNumber",
+    "name": "<p><strong>Ancien numéro de fournisseur hérité (ZPOI)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 82,
+    "fieldName": "zpoiNewVendorNumber",
+    "name": "<p><strong>Nouveau numéro de fournisseur LONZA (ZPOI)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 102,
+    "fieldName": "adesignation",
+    "name": "<p><strong>Désignation 8(A)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 105,
+    "fieldName": "phone",
+    "name": "<p><strong>Téléphone</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 108,
+    "fieldName": "fax",
+    "name": "<p><strong>Télécopie</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 111,
+    "fieldName": "sapduns",
+    "name": "<p><strong>NUMÉRO DUNS</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 114,
+    "fieldName": "multiLanguage",
+    "name": "<p><strong>Adresses internationales</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Adresse",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 120,
+    "fieldName": "smrNumber",
+    "name": "<p><strong>Numéro SMR</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "supplierGeneralEmail",
+    "name": "<p><strong>Adresse électronique</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 123,
+    "fieldName": "financeEmail",
+    "name": "<p><strong>Adresse Internet de l’agent</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 126,
+    "fieldName": "scac",
+    "name": "<p><strong>SCAC</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 129,
+    "fieldName": "Carfreightgrp",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Groupe de voitures et de marchandises</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 132,
+    "fieldName": "ServAgntProcGrp",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">ServAgntProcGrp</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 135,
+    "fieldName": "Industry",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Secteur d’activité</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "accountGroup",
+    "name": "<p><strong>Groupe de comptes</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 117,
+    "fieldName": "qualityRelevant",
+    "name": "<p><strong>Soumis aux critères de qualité</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 138,
+    "fieldName": "OneTimeVendor",
+    "name": "<p><strong>Vérification du fournisseur occasionnel</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 141,
+    "fieldName": "communicationLanguage",
+    "name": "<p><strong>Langue de communication préférée</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

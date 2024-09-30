@@ -1,0 +1,92 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Formulaire de mise à jour des conditions de paiement",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Données existantes",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": "Modifier les données",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 15,
+    "fieldName": "existingPOPaymentTerm",
+    "name": "<p><strong>Conditions de paiement existantes de l'organisation d’achat sélectionnée</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "existingCCPaymentTerm",
+    "name": "<p><strong>Conditions de paiement existantes du code d'entreprise sélectionné</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 21,
+    "fieldName": "changedPOPaymentTerm",
+    "name": "<p><strong>Veuillez sélectionner les conditions de paiement pour l'organisation d'achat dans cette demande de modification</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "updatecompanyCode",
+    "name": "<p><strong>Code de société sélectionné pour le changement des conditions de paiement</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "updatePOrg",
+    "name": "<p><strong>Organisation d’achat sélectionnée pour le changement des conditions de paiement</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "updatedCCPaymentTerm",
+    "name": "<p><strong>Veuillez sélectionner les conditions de paiement pour le code d'entreprise dans cette demande de modification</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

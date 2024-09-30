@@ -1,0 +1,114 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Formulaire ESG du fournisseur",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Données ESG",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 20,
+    "fieldName": "sustainabilityContactPerson",
+    "name": "<p><strong>Indiquez une personne de contact en matière de développement durable (si disponible).</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contact",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 37,
+    "fieldName": "companySize",
+    "name": "<p><strong>Veuillez sélectionner la taille de votre entreprise</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Small <50 employees": "Petite <50 employés",
+      "Micro <10 employees": "Micro <10 employés",
+      "Large >250 employees": "Grande > 250 employés",
+      "Medium <250 employees": "Moyenne < 250 salariés"
+    },
+    "type": "field"
+  },
+  {
+    "id": 34,
+    "fieldName": "esgAgreement",
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "I hereby certify that to the best of my knowledge the information presented in this form is true and correct.": "Je certifie par la présente qu'à ma connaissance, les informations présentées dans ce formulaire sont vraies et exactes."
+    },
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "isMicroCompany",
+    "name": "<p>Est-ce une micro-entreprise ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 25,
+    "fieldName": null,
+    "name": null,
+    "description": "« <p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em> Si aucun numéro EVID ou DUNS n'est fourni, votre entreprise sera invitée à se soumettre à une évaluation en matière de développement durable par Integrity Next.</em></strong></p> »",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 12,
+    "fieldName": "DUNSNumber",
+    "name": "<p>Veuillez fournir le numéro DUNS*</p>",
+    "description": null,
+    "helpText": "<p><strong style=\"color: rgb(62, 68, 86);\">Le numéro DUNS peut comporter 8 ou 9 chiffres.</strong></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "ecovadisID",
+    "name": "<p>Veuillez fournir l'identifiant Ecovadis*</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "ESGCategory",
+    "name": "<p><strong>Pour nous permettre d'accéder aux informations ESG de votre entreprise, veuillez indiquer votre identifiant EcoVadis (EVID) et/ou votre numéro DUNS. Si aucune information n’est disponible, votre entreprise peut être invitée à se soumettre à une évaluation en matière de développement durable par Integrity Next.</strong></p>",
+    "description": null,
+    "helpText": "<p><span style=\"color: rgb(0, 0, 0);\">Vous n'avez pas de numéro DUNS ? Obtenez-en un ici gratuitement </span><a href=\"https://www.dnb.com/en-ch/duns-request.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0);\">ici</a></p>",
+    "listItemPrefix": "",
+    "choices": {
+      "Ecovadis ID": "Identifiant Ecovadis",
+      "None of the above": "Aucune de ces réponses",
+      "DUNS number": "Numéro DUNS",
+      "Both": "Les deux"
+    },
+    "type": "field"
+  }
+]

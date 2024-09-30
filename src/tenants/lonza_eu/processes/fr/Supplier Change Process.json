@@ -1,0 +1,104 @@
+[
+  {
+    "id": null,
+    "name": "Processus de changement de fournisseur",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 30,
+    "name": "Modifier les tâches du système",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Mise à jour des données par le demandeur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 42,
+    "name": "Examen préliminaire de l'assurance qualité du site",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 44,
+    "name": "Processus qualité à changer",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Mise à jour des informations bancaires par le fournisseur",
+    "type": null,
+    "description": "Veuillez mettre à jour les coordonnées bancaires"
+  },
+  {
+    "id": 5,
+    "name": "Modalités de paiement",
+    "type": null,
+    "description": "Veuillez mettre à jour les coordonnées bancaires"
+  },
+  {
+    "id": 37,
+    "name": "Validation du code de banque",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Examen de l'équipe de validation bancaire",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 32,
+    "name": "Approbation des conditions de paiement par Global P2P",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 33,
+    "name": "Approbation du prélèvement automatique par Global Treasury",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 34,
+    "name": "Approbation du prélèvement automatique par les comptes fournisseurs",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 38,
+    "name": "Approbation de la gestion mondiale des données de base",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 31,
+    "name": "Mise à jour du fournisseur dans SAP",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 43,
+    "name": "Mettre à jour la notification de rejet du fournisseur",
+    "type": null,
+    "description": "La demande de mise à jour a été rejetée."
+  },
+  {
+    "id": 35,
+    "name": "Notification de rejet des conditions de paiement",
+    "type": null,
+    "description": "Votre demande de modification des conditions de paiement a été rejetée."
+  },
+  {
+    "id": 36,
+    "name": "Notification de rejet du prélèvement automatique",
+    "type": null,
+    "description": "Votre modification du prélèvement automatique a été rejetée."
+  }
+]

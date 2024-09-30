@@ -1,0 +1,86 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "直接扣款更新表",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "现有数据",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 8,
+    "fieldName": null,
+    "name": "变更数据",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": "selectedCompanyCode",
+    "name": "<p><strong>请求人所选公司代码</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 11,
+    "fieldName": "enableDirectDebit",
+    "name": "<p><strong>您是否想对上述公司代码启用直接扣款？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "disableDirectDebit",
+    "name": "<p><strong>您是否想对上述公司代码禁用直接扣款？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "directDebitStatus",
+    "name": "<p><strong>所选公司代码的直接扣款状态</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "N/A": "不适用",
+      "Enabled": "已启用",
+      "Disabled": "已禁用"
+    },
+    "type": "field"
+  },
+  {
+    "id": 17,
+    "fieldName": "helptextforNA",
+    "name": null,
+    "description": "“<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>无法对该公司代码启用直接扣款选项</em></strong></p>“",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

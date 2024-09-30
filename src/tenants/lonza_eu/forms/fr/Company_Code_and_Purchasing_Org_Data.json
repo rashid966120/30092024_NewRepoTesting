@@ -1,0 +1,349 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Code de l'entreprise et données de l'organisation d'achat",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 28,
+    "fieldName": null,
+    "name": "Données de l'organisation d'achat",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Données du code de l'entreprise",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 20,
+    "fieldName": null,
+    "name": "Données comptables du code de l'entreprise",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 27,
+    "fieldName": null,
+    "name": "Données de l’agent",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 68,
+    "fieldName": null,
+    "name": "Données relatives à la qualification",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 31,
+    "fieldName": "incoTerms",
+    "name": "<p><strong>Incoterms</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 49,
+    "fieldName": "directDebitAmount",
+    "name": "<p><strong>Veuillez saisir le montant du prélèvement automatique</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 52,
+    "fieldName": "directDebitFrequency",
+    "name": "<p><strong>Veuillez sélectionner la fréquence du prélèvement automatique</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Monthly": "Mensuel",
+      "Yearly": "Annuel",
+      "Other": "Autre"
+    },
+    "type": "field"
+  },
+  {
+    "id": 55,
+    "fieldName": "otherfrequency",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Fréquence du prélèvement automatique (si vous avez choisi « Autre »)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 58,
+    "fieldName": "directDebitDate",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Date du prélèvement automatique</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 61,
+    "fieldName": "annualExpenditure",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Dépenses annuelles</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 34,
+    "fieldName": "orderingCurrency",
+    "name": "<p><strong>Devise de la commande</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 37,
+    "fieldName": "incoTermLocation",
+    "name": "<p><strong>Localisation Incoterm</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 64,
+    "fieldName": "helptextcompanycode",
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 43,
+    "fieldName": "companyCodeCountry",
+    "name": "<p><strong>Pays du Code de l'entreprise</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 67,
+    "fieldName": "paymentMethodHelptext",
+    "name": null,
+    "description": "« <p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em> Si vous choisissez de payer par prélèvement automatique, veuillez ajouter le prélèvement automatique dans la liste des modes de paiement.</em></strong></p><p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em> Vous ne verrez pas l'option de prélèvement automatique si elle n'existe pas pour le code d'entreprise sélectionné. Dans ce cas, le paiement par prélèvement automatique doit être défini sur \\« Non\\ »</em></strong></p> »",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 71,
+    "fieldName": "isGMPRelevant",
+    "name": "<p><strong>Le fournisseur est-il soumis aux critères de GMP ?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 23,
+    "fieldName": "reconcilliationAccount",
+    "name": "<p><strong style=\"color: rgb(106, 106, 106);\">Compte de réconciliation</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "sortkey",
+    "name": "<p><strong>Code guichet</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "cashmgmtgroup",
+    "name": "<p><strong>Groupe de gestion de trésorerie (Groupe de planification)</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "popaymentterm",
+    "name": "<p><strong>Conditions de paiement par défaut </strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 81,
+    "fieldName": "changedpopaymentterm",
+    "name": "<p><strong>Conditions de paiement  </strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "paymentTerms",
+    "name": "<p><strong>Conditions de paiement par défaut</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 83,
+    "fieldName": "changedccpaymentterm",
+    "name": "<p><strong>Conditions de paiement   </strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "checkDoubleInv",
+    "name": "<p><strong>Vérifier les factures en double</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 46,
+    "fieldName": "isDirectDebit",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Les factures doivent-elles être payées par prélèvement automatique ?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "paymentMethod",
+    "name": "<p><strong>Mode de paiement</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "clerkEmail",
+    "name": "<p><strong style=\"color: rgb(87, 95, 112);\">Internet de l’agent</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 79,
+    "fieldName": "vcnattachment",
+    "name": "<p><strong>Joindre le VCN ou tout document justificatif</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 86,
+    "fieldName": "requestorSite",
+    "name": "<p><strong>Sélectionnez le site du demandeur</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 95,
+    "fieldName": "companyCodeExists",
+    "name": "<p>Le code entreprise de l’entreprise existe-t-il ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 74,
+    "fieldName": "willBecomeGMPRelevant",
+    "name": "<p><strong style=\"color: rgb(62, 68, 86);\">Le fournisseur sera-t-il utilisé dans le cadre ou en soutien à la fabrication d'un produit réglementé après sa prolongation ?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "No": "Non",
+      "Yes": "Oui"
+    },
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "clerkabbreviation",
+    "name": "<p><strong>Abréviation de l’agent</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

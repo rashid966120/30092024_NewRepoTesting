@@ -1,0 +1,50 @@
+[
+  {
+    "id": null,
+    "name": "供应链合作伙伴准入",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "早期现场 QA 评审",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "供应链合作伙伴准入质量工作流程",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "更新供应商状态",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "修正供应链创建中的数据错误",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "创建供应链合作伙伴",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "更新范围",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "向请求人发送供应商拒绝通知",
+    "type": null,
+    "description": "供应商创建被现场 QA 拒绝。"
+  }
+]

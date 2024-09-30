@@ -1,0 +1,56 @@
+[
+  {
+    "id": null,
+    "name": "Évaluation du contrôle allégé des fournisseurs",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Obtenir le score D&B",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "Mettre à jour le niveau de risque dans les évaluations",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Examen du contrôle des fournisseurs potentiels",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "Mettre à jour le statut du fournisseur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "Résultats du contrôle ESG des fournisseurs potentiels",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "Contrôle financier",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Mettre à jour les informations de l'entreprise",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 17,
+    "name": "Créer un fournisseur",
+    "type": null,
+    "description": null
+  }
+]

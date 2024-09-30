@@ -1,0 +1,32 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Politique de confidentialité",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": null,
+    "description": "« <p><strong><em> J'ai lu la \\’</em></strong><a href=\\\"https://www.lonza.com/policies/privacy-policy\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\"><strong><em> politique de confidentialité</em></strong></a><strong><em> \\’ et je consens à ce que les informations fournies soient utilisées par LONZA.</em></strong></p> »",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

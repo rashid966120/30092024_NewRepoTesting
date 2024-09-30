@@ -1,0 +1,54 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "审查与确认（质量）",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 44,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 22,
+    "fieldName": "null_1__1__1_",
+    "name": "无效(1)(1)(1)",
+    "description": "“<p><strong><em>我在此证明，据我所知，此处提供的信息真实、正确。</em></strong></p>”",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "isTrue",
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "I hereby certify that to the best of my knowledge, the information presented in all the forms above, is true and correct.": "我在此证明，据我所知，以上所有表格中提供的信息均真实、正确。"
+    },
+    "type": "field"
+  },
+  {
+    "id": 69,
+    "fieldName": null,
+    "name": null,
+    "description": "“<p><strong>本部分填写的表格：</strong></p><p><br></p><ol><li>供应商质量承诺（仅适用于全球供应商资质）</li><li>需签署的质量文件</li></ol>”",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

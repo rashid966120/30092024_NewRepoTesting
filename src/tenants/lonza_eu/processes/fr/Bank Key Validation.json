@@ -1,0 +1,20 @@
+[
+  {
+    "id": null,
+    "name": "Validation du code de banque",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Valider le code de banque",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Créer un code de banque dans SAP",
+    "type": null,
+    "description": "Si une banque non standard existe dans SAP, veuillez l'utiliser ou créer une nouvelle banque dans SAP avec le code de banque standard."
+  }
+]

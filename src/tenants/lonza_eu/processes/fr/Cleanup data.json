@@ -1,0 +1,86 @@
+[
+  {
+    "id": null,
+    "name": "Nettoyer les données",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Corriger les erreurs de données lors de la création du fournisseur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Créer un fournisseur dans SAP",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Corriger les erreurs d'adresse",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Mettre à jour l'adresse principale",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "Corriger les erreurs dans les données de classification",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Mettre à jour la classification",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "Corriger l'extension du code de l'entreprise ",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 14,
+    "name": "Étendre aux codes d'entreprise",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "Corriger les erreurs chez les fournisseurs VSCI",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Créer des fournisseurs VSCI",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "Activation des fournisseurs",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 12,
+    "name": "Mettre à jour l'²identifiant du fournisseur SAP dans IntegrityNext",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Mettre à jour le statut du fournisseur",
+    "type": null,
+    "description": null
+  }
+]

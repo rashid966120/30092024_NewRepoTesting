@@ -1,0 +1,158 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "所请求供应商的现场 QA 审查",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 25,
+    "fieldName": "dmsDocumentID",
+    "name": "<p><strong>请添加 Lonza DMS 文档 ID：</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "isClientQualificationCompleted",
+    "name": "<p><strong>是否成功办妥供应商客户资质？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 8,
+    "fieldName": "isChangeNotification",
+    "name": "<p><strong>是否由供应商提供变更通知？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "isSCDReviewComplete",
+    "name": "<p><strong>是否已审查 SCD（或同等供应商文件），且认为其完整、准确？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 6,
+    "fieldName": "q6_isLocalSupplierQualificationCo",
+    "name": "<p><strong>是否按照当地规程成功办妥资质？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 42,
+    "fieldName": "errorInstruction",
+    "name": null,
+    "description": "“<p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>若无准确、完整的 SCD，则无法继续。</em></strong></p><p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em>请返回供应商处，提供正确信息。</em></strong></p>”",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "q16_isServiceProviderAssessmentReq",
+    "name": "<p><strong>是否需要（新的、重新评估或更新）供应商/服务提供商评估请求？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "isServiceProvideQAARequired",
+    "name": "<p><strong>是否需要（新的、重新评估或更新）供应商/服务提供商 QAA/SCL？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 33,
+    "fieldName": "complianceCategory",
+    "name": "<p><strong>按照 GROUP-125419 选择合规性分类：</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "N/A": "不适用",
+      "Distributor Level 1": "一级经销商",
+      "Distributor Level 2": "二级经销商",
+      "Service Provider to Lonza": "Lonza 服务提供商",
+      "Legal Manufacturer": "合法制造商"
+    },
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "sclExists",
+    "name": "<p><strong>据您所知，该公司/场所、其控股/母公司是否有任何类型的 QAA 或 SCL？</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": "activity",
+    "name": "<p><strong>按照 GROUP-125419，选择每个 SDC 所请求供应商的活动：</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Distribution Center": "配送中心",
+      "Agent": "代理",
+      "N/A": "不适用",
+      "Original Manufacturer": "原始制造商",
+      "Software Development": "软件开发",
+      "Sales Office": "销售处",
+      "Equipment Assembly": "设备组装",
+      "Material Sterilizer": "物料灭菌器",
+      "Packer / Re-packer": "包装机/二次包装机"
+    },
+    "type": "field"
+  },
+  {
+    "id": 36,
+    "fieldName": "trackwiseSMR",
+    "name": "<p><strong>若有 TrackWise SMR，请添加 SMR 号码：</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

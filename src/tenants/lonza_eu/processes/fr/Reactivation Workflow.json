@@ -1,0 +1,98 @@
+[
+  {
+    "id": null,
+    "name": "Processus de réactivation",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Examen par le service Achats",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Recueillir les documents relatifs à l'intégration",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Informations sur l'entreprise",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Modalités de paiement",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Formulaire d'adresse",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "Formulaire de contact",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "Formulaire détaillé SAP Ariba",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Conditions de paiement et confirmation IncoTerm",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 19,
+    "name": "Examen et certification",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "Validation du code de banque",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 22,
+    "name": "Approbation des conditions de paiement pour la réactivation",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 23,
+    "name": "Processus d'approbation du prélèvement automatique",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 24,
+    "name": "Approbation des données de base",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 26,
+    "name": "Corriger les erreurs pour la réactivation du fournisseur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 25,
+    "name": "Réactiver le fournisseur dans SAP",
+    "type": null,
+    "description": null
+  }
+]

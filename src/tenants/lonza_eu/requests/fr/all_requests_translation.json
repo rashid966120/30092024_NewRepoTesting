@@ -1,0 +1,233 @@
+[
+  {
+    "id": "Test process",
+    "requestName": "Tester la procédure",
+    "shortDescription": "Tester la procédure",
+    "stepTitles": {
+      "Procurement": "Achats",
+      "Address": "Adresse",
+      "Compliance": "Conformité",
+      "Quality": "Qualité",
+      "Legal": "Juridique",
+      "Review Process": "Processus d'examen",
+      "Supplier": "Fournisseur",
+      "Onboarding details": "Informations sur l'intégration",
+      "IT": "TI"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Onboarding Process",
+    "requestName": "Intégration d’un fournisseur",
+    "shortDescription": "Vague 1",
+    "stepTitles": {
+      "Procurement": "Achats",
+      "Business Need": "Besoin opérationnel",
+      "Accounting data": "Données comptables",
+      "Quality": "Qualité",
+      "Legal": "Juridique",
+      "Review Process": "Processus d'examen",
+      "Supplier": "Fournisseur",
+      "IT": "TI",
+      "Supplier Qualification Data": "Données de qualification du fournisseur"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Off-boarding Workflow",
+    "requestName": "Blocage/Déblocage/Désactivation/Réactivation du fournisseur",
+    "shortDescription": "Vague 1",
+    "stepTitles": {
+      "Procurement": "Achats",
+      "Request Details": "Détails de la demande",
+      "Quality": "Qualité",
+      "Legal": "Juridique",
+      "Supplier": "Fournisseur",
+      "Review": "Examen",
+      "Error info": "Informations sur l'erreur"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Change Process",
+    "requestName": "Changement de fournisseur",
+    "shortDescription": "Vague 1",
+    "stepTitles": {
+      "Procurement": "Achats",
+      "Request Details": "Détails de la demande",
+      "Payment Details": "Modalités de paiement",
+      "Quality": "Qualité",
+      "Review Process": "Processus d'examen",
+      "Tax information": "Informations fiscales",
+      "Classification data": "Données de classification",
+      "Supplier": "Fournisseur",
+      "Onboarding details": "Informations sur l'intégration"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supply Chain Partner Onboarding",
+    "requestName": "Intégration des partenaires de la chaîne d'approvisionnement",
+    "shortDescription": "Vague 1",
+    "stepTitles": {
+      "Procurement": "Achats",
+      "Business Need": "Besoin opérationnel",
+      "Supplier qualification data": "Données de qualification du fournisseur",
+      "Quality": "Qualité",
+      "Legal": "Juridique",
+      "Review Process": "Processus d'examen",
+      "Supplier": "Fournisseur",
+      "Error Info": "Informations sur l'erreur",
+      "Company information": "Informations sur l'entreprise"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "New Supplier Onboarding process",
+    "requestName": "Demande d'intégration des fournisseurs",
+    "shortDescription": "Vague 2",
+    "stepTitles": {
+      "Procurement": "Achats",
+      "Business Need": "Besoin opérationnel",
+      "Requester": "Demandeur",
+      "Quality": "Qualité",
+      "Legal": "Juridique",
+      "Review Process": "Processus d'examen",
+      "Supplier": "Fournisseur",
+      "Accounting Information": "Informations comptables",
+      "Supplier Qualification Data": "Données de qualification du fournisseur"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Extension Process",
+    "requestName": "Prolongation du fournisseur",
+    "shortDescription": "Vague 1",
+    "stepTitles": {
+      "Procurement": "Achats",
+      "Business Need": "Besoin opérationnel",
+      "Compliance": "Conformité",
+      "Quality": "Qualité",
+      "Legal": "Juridique",
+      "Review Process": "Processus d'examen",
+      "Onboarding details": "Informations sur l'intégration",
+      "Supplier Selection": "Sélection des fournisseurs",
+      "IT": "TI"
+    },
+    "engagementAttributes": {
+      "VendorID": "Identifiant du fournisseur"
+    }
+  },
+  {
+    "id": "Supplier Light Screening Assessment",
+    "requestName": "Qualification des fournisseurs potentiels",
+    "shortDescription": "Qualification des fournisseurs potentiels",
+    "stepTitles": {
+      "Matching Supplier(s)": "Fournisseur(s) correspondant(s)",
+      "Business Justification": "Justification opérationnelle",
+      "Review Process": "Processus d'examen",
+      "Supplier": "Fournisseur"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Bank verification Lonza",
+    "requestName": "Vérification bancaire du fournisseur",
+    "shortDescription": "Vérification bancaire du fournisseur",
+    "stepTitles": {
+      "Procurement": "Achats",
+      "Compliance": "Conformité",
+      "Quality": "Qualité",
+      "Documents": "Documents",
+      "Legal": "Juridique",
+      "Review Process": "Processus d'examen",
+      "Supplier": "Fournisseur",
+      "Onboarding details": "Informations sur l'intégration",
+      "IT": "TI"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Change Workflow for QA",
+    "requestName": "Processus de changement de fournisseur pour l'assurance qualité",
+    "shortDescription": "Processus de changement de fournisseur pour l'assurance qualité",
+    "stepTitles": {
+      "Procurement": "Achats",
+      "Compliance": "Conformité",
+      "Quality": "Qualité",
+      "Legal": "Juridique",
+      "Review Process": "Processus d'examen",
+      "Supplier": "Fournisseur",
+      "Onboarding details": "Informations sur l'intégration",
+      "IT": "TI",
+      "Change Details": "Modifier les détails"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "DUNS API summary",
+    "requestName": "Résumé de l'API DUNS",
+    "shortDescription": "Résumé de l'API DUNS",
+    "stepTitles": {
+      "Procurement": "Achats",
+      "Basic": "Simple",
+      "Details": "Détails",
+      "Compliance": "Conformité",
+      "Quality": "Qualité",
+      "Documents": "Documents",
+      "Legal": "Juridique",
+      "Supplier": "Fournisseur",
+      "Budget": "Budget",
+      "IT": "TI"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Supplier Profile Update",
+    "requestName": "Mise à jour du profil du fournisseur",
+    "shortDescription": "Mise à jour du profil du fournisseur",
+    "stepTitles": {
+      "Procurement": "Achats",
+      "Details": "Détails",
+      "Compliance": "Conformité",
+      "Quality": "Qualité",
+      "Legal": "Juridique",
+      "IT": "TI"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "Quality Test Process",
+    "requestName": "Processus de test de qualité",
+    "shortDescription": "Processus de test de qualité",
+    "stepTitles": {
+      "Procurement": "Achats",
+      "Compliance": "Conformité",
+      "Quality": "Qualité",
+      "Documents": "Documents",
+      "Legal": "Juridique",
+      "Review Process": "Processus d'examen",
+      "Supplier": "Fournisseur",
+      "Onboarding details": "Informations sur l'intégration",
+      "IT": "TI"
+    },
+    "engagementAttributes": null
+  },
+  {
+    "id": "New Supply Chain Partner Onboarding",
+    "requestName": "Intégration de nouveaux partenaires de la chaîne d'approvisionnement",
+    "shortDescription": "Intégration de nouveaux partenaires de la chaîne d'approvisionnement",
+    "stepTitles": {
+      "Supplier Qualification data": "Données de qualification des fournisseurs",
+      "Procurement": "Achats",
+      "Business Need": "Besoin opérationnel",
+      "Compliance": "Conformité",
+      "Quality": "Qualité",
+      "Legal": "Juridique",
+      "Review Process": "Processus d'examen",
+      "Supplier": "Fournisseur",
+      "IT": "TI"
+    },
+    "engagementAttributes": null
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": null,
+    "name": "ESG 子流程",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "向供应商发送 ESG 信息请求",
+    "type": null,
+    "description": "请填写继续准入所需的 ESG 详细信息。"
+  },
+  {
+    "id": 14,
+    "name": "供应商 ESG 表",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "ESG 评分人工审查",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 38,
+    "name": "Ecovadis 评分更新",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 32,
+    "name": "D&B 评分审查",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 49,
+    "name": "Integrity Next 评分审查",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 33,
+    "name": "Integrity Next 邀请",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 45,
+    "name": "Integrity Next 结果等待期",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "负责任采购审查",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 44,
+    "name": "ESG 筛查结果",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 37,
+    "name": "向请求人发送 ESG 筛查结果通知",
+    "type": null,
+    "description": null
+  }
+]

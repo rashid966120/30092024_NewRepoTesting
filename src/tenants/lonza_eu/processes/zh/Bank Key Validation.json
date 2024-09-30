@@ -1,0 +1,20 @@
+[
+  {
+    "id": null,
+    "name": "银行密钥验证",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "验证银行密钥",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "在 SAP 中创建银行密钥",
+    "type": null,
+    "description": "如果 SAP 中存在非标准银行，请使用该银行或用标准银行代码在 SAP 中创建新银行。"
+  }
+]

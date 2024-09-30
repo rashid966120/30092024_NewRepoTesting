@@ -1,0 +1,112 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Formulaire d'évaluation de l'approvisionnement responsable",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": "isecoScoreAvailable",
+    "name": "<p><strong>Le score Ecovadis est-il disponible ?</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "isecovadisIDNULL",
+    "name": "<p>L’identifiant Ecovadis est-il INVALIDE ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 24,
+    "fieldName": "isDUNSNULL",
+    "name": "<p>Le numéro DUNS est-il INVALIDE ?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 17,
+    "fieldName": "dunsNumber",
+    "name": "<p>Numéro DUNS</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "ecoVadisID",
+    "name": "<p>Identifiant Ecovadis</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "ecoScore",
+    "name": "<p><strong>Veuillez fournir le score Ecovadis</strong></p>",
+    "description": null,
+    "helpText": "<p>Veuillez fournir un score entre 1 et 100</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": null,
+    "name": null,
+    "description": "« <p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em> Il n'y a pas d'identifiant Ecovadis fourni par le fournisseur. Le score D&B sera récupéré si le numéro DUNS est communiqué par le fournisseur.</em></strong></p> »",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 15,
+    "fieldName": "null_1_",
+    "name": "invalide(1)",
+    "description": "« <p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em> Il n'y a pas de numéro DUNS communiqué par le fournisseur.</em></strong></p> »",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "null_1__1_",
+    "name": "invalide(1)(1)",
+    "description": "« <p><strong style=\\\"color: rgb(230, 0, 0);\\\"><em> Aucun numéro Ecovadis ou DUNS n'est fourni. Le processus Integrity Next démarrera lorsque vous aurez terminé cette étape si l'entreprise fournisseur n'est pas une micro-entreprise.</em></strong></p> »",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]

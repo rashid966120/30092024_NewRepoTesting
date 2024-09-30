@@ -1,0 +1,92 @@
+[
+  {
+    "id": null,
+    "name": "Processus de prolongation des fournisseurs",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "Rechercher le champ d’application",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "Données de prolongation par défaut",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Mise à jour des données par le demandeur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 14,
+    "name": "Examen préliminaire de l'assurance qualité du site",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Processus de qualification de la vague 1",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "Approbation des conditions de paiement par Global P2P",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 12,
+    "name": "Approbation du prélèvement automatique par Global Treasury",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "Approbation du prélèvement automatique par les comptes fournisseurs",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Corriger les erreurs de données",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Prolonger le fournisseur",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 20,
+    "name": "Mettre à jour le champ d’application",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 18,
+    "name": "Notification de rejet des conditions de paiement",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 19,
+    "name": "Notification de rejet du prélèvement automatique",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 17,
+    "name": "Notification de rejet de la prolongation au demandeur",
+    "type": null,
+    "description": null
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": null,
+    "name": "Modifier les tâches du système",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Rechercher les conditions de paiement existantes",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Charger les contacts",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Charger l’adresse",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Rechercher le prélèvement automatique",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Rechercher le mode de paiement",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Soumis aux critères de GMP",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "Rechercher les données comptables",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Rechercher les données d'achat",
+    "type": null,
+    "description": null
+  }
+]

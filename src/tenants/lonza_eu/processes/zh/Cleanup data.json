@@ -1,0 +1,86 @@
+[
+  {
+    "id": null,
+    "name": "清理数据",
+    "type": "processTitle",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "修正供应商创建中的数据错误",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "在 SAP 中创建供应商",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "修正地址错误",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "更新主地址",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "修正分类数据中的错误",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "更新分类",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "修复公司代码扩展 ",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 14,
+    "name": "扩展到公司代码",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "修正 VSCI 供应商中的错误",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "创建 VSCI 供应商",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "供应商启用",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 12,
+    "name": "在 IntegrityNext 中更新 SAP 供应商 ID",
+    "type": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "更新供应商状态",
+    "type": null,
+    "description": null
+  }
+]
