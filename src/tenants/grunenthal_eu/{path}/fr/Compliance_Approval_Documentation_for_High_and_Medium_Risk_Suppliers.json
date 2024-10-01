@@ -1,0 +1,222 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "øøøøøøøøøø øøøøøøøø øøøøøøøøøøøøø",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 60,
+    "fieldName": null,
+    "name": "øøøøøøøø øøøø øøøøø",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "øøøø øøøø øøøøøø øøøøøøøøøøøøø",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": "øøøøøø øøøø øøøøøø øøøøøøøøøøøøø",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 26,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>øøøøøø øøøø øøø øøøøøøøøø øø <strong style=\\\"color: rgb(230, 0, 0);\\\">øøøø øøøø</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "null_1_",
+    "name": "øøøø(1)",
+    "description": "\"<p>øøøøøø øøøø øøø øøøøøøøøø øø <strong style=\\\"color: rgb(255, 153, 0);\\\">øøøøøø øøøø</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 35,
+    "fieldName": "q35__p_Medium_risk_vendor_denied__",
+    "name": "<p>øøøøøø øøøø øøøøøø øøøøøø (øøøøøø)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 38,
+    "fieldName": "q38__p_High_risk_vendor_denied__hi",
+    "name": "<p>øøøø øøøø øøøøøø øøøøøø (øøøøøø)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 59,
+    "fieldName": "null_2_",
+    "name": "øøøø(2)",
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\">øøøø øøøøøøøø øøøøøøøøøø øøøøøøø øøøø øøøø øøøø. </strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p_Please_add_Documentation_of",
+    "name": "<p>øøøøøø øøø øøøøøøøøøøøøø øø øøøøøøøø.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 57,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(230, 0, 0);\\\">øøøø øøøøøøøø øøøøøøøøøø øøøøøøø øøøø øøøø øøøø. øøø øøø øøøøø 'ø' øøøø øøø øøøøø øøøøøø, øøø øøøø øøøøø 'øøøø'!</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 69,
+    "fieldName": "_p_Please_justify__p_",
+    "name": "<p>øøøøøø øøøøøøø</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 71,
+    "fieldName": "_p_Please_justify___p_",
+    "name": "<p>øøøøøø øøøøøøø!</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 65,
+    "fieldName": "_p_Comments__p_",
+    "name": "<p>øøøøøø øøøøøøø øøøøøøø øø øøøøøøøøøø øøøøøøøøøø øøøøøøøø.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 76,
+    "fieldName": "_p_Please_clarify___p_",
+    "name": "<p>øøøøøø øøøøøøø!</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "q14__p_Would_you_like_to_approve_t",
+    "name": "<p>øøøøø øøø øøøø øø øøøøøøø øøø øøøøøøøøøø øø øøøø <strong style=\"color: rgb(230, 0, 0);\">øøøø øøøø</strong><span style=\"color: rgb(230, 0, 0);\"> </span>øøøøøø?</p><p><span style=\"color: rgb(136, 136, 136);\">øøøø : øøø øøø øøøøøøøø øø øøø øøøøøøøøøøøøø øø øøøøøøø.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Reject": "øøøøøø",
+      "Approve": "øøøøøøø"
+    },
+    "type": "field"
+  },
+  {
+    "id": 74,
+    "fieldName": "q74__p_Please_select_the_appropria",
+    "name": "<p>øøøøøø øøøøøø øøø øøøøøøøøøøø </p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Please apply additional mitigation measures": "øøøøøø øøøøø øøøøøøøøøø øøøøøøøøøø øøøøøøøø",
+      "Please ask vendor to sign the Grünenthal Code of Conduct": "øøøøøø øøø øøøøøø øø øøøø øøø øøøøøøøøøø øøøø øø øøøøøøø",
+      "Please use Grünenthal contract template": "øøøøøø øøø øøøøøøøøøø øøøøøøøø øøøøøøøø"
+    },
+    "type": "field"
+  },
+  {
+    "id": 79,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"background-color: rgb(255, 255, 0);\\\">øøøø:</span> øøøøøøøø øøø øøø øøøøøøøø øøøø øøøøøøøøøøøøø. øøøø øøøøøøø øøø øøøø øøøøøøøøøø øøøøøøøøøøø øøø øøøøø øøøøøøøø. </p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 12,
+    "fieldName": "q12__p_Would_you_like_to_approve_t",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">øøøøø øøø øøøø øø øøøøøøø øøø øøøøøøøøøø øø øøøø </span><span style=\"color: rgb(230, 0, 0);\">øøøøøø øøøø </span>øøøøøø<span style=\"color: rgb(62, 68, 86);\">?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Reject": "øøøøøø",
+      "Approve": "øøøøøøø"
+    },
+    "type": "field"
+  },
+  {
+    "id": 102,
+    "fieldName": "originalRiskScore",
+    "name": "<p>øøøøøøøø øøøø øøøøø</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 105,
+    "fieldName": "lastUpdatedTpddDate",
+    "name": "<p>øøøø øøøøøøø øøøø øøøø</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
