@@ -1,0 +1,137 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "øøø øøøøøøøøø øøøøøøø",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "øøøøøøø øøøøø øøøøø øøø øøøøøøøøø øøøøøøø",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 23,
+    "fieldName": null,
+    "name": "øøøøøøøø øøøø & øøøøøøø øøøøø",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 34,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong>øøøø</strong>: øøøøøøøø øøøø øøø øøøø øøø øøøøøøø øø øøø øøøøø øøøø øøøøøøø øø øøøø øøøø.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>øøøøøø øø øøø øøøøøøøøø øøøøøøøø øøøø øøø øøøøøøø øøøøø øøøøøø: <strong style=\\\"color: rgb(0, 138, 0);\\\">øø øøøøøøø</strong><strong> </strong><strong style=\\\"color: rgb(0, 138, 0);\\\">øøøø øøøøø</strong>. </p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(62, 68, 86);\\\">øøøøøø øø øøø øøøøøøøøø øøøøøøøø øøøø øøøøø</span><strong style=\\\"color: rgb(230, 0, 0);\\\">: øøøøøøø øøøø øøøøø</strong><span style=\\\"color: rgb(230, 0, 0);\\\">.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 27,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>øøøøøø øø øøø øøøøøøøøø øøøøøøø øøøøø øøøøøø: <strong style=\\\"color: rgb(230, 0, 0);\\\">øøøøøøø øøøø øøøøø</strong><span style=\\\"color: rgb(230, 0, 0);\\\">.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 88,
+    "fieldName": "q88__p_Please_add_your_comments___",
+    "name": "<p>øøøøøøøøøøø øøøøøø øøøøøøø</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">øøøøøøøø øøøøø øøøøø øøø øøøøøøøøø </strong>øøø øøøøøøø øø øøøø øøøøøø øøøøø øø øøø øøøøøøø</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">øøøøøøøøøøø, øøøøøø, øøøøøøøøøø øøøøø øøøøø øøø øøøøøøøøø</strong><strong> </strong>øøø øøøøøøø øø øøøø øøøøøø øøøøø øø øøø øøøøøøø</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><strong style=\\\"color: rgb(0, 138, 0);\\\">øøøøø øøøøø øøøøø øøø øøøøøøøøø</strong> øøø øøøøøøø øø øøøø øøøøøø øøøøø øø øøø øøøøøøø.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 91,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>øøøøø øø øøø øøøøøøø, <strong style=\\\"color: rgb(0, 138, 0);\\\">øøøøø øøøøø øøø øøøøøøøøøø øø øøø øøøøøøøøøø. </strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 48,
+    "fieldName": "q48__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">øøøøøø øøøøøøøø øøøøøøø øø øøøøø øøøø øøø øøøøøøø øøøøø øøøø øøøøø?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "False hits": "øøøøø øøøø",
+      "Found hits that are directly impacting the business relationship": "øøøøø øøøø øøøø øøø øøøøøøøø øøøøøøøøø øøø øøøøøøøø øøøøøøøøøøøø",
+      "Found hits that are not impacting the business relationship directly": "øøøøø øøøø øøøø øøø øøø øøøøøøøøø øøø øøøøøøøø øøøøøøøøøøøø øøøøøøøø",
+      "No hits": "øø øøøø"
+    },
+    "type": "field"
+  }
+]
